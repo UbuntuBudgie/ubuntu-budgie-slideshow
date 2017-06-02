@@ -1,0 +1,434 @@
+# Galician translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"PO-Revision-Date: 2017-02-25 11:47+0000\n"
+"Last-Translator: Marcos Lans <Unknown>\n"
+"Language-Team: Galician <gl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+"Language: gl\n"
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/accessibility.html:1
+msgid "Accessibility in Kubuntu"
+msgstr "Accesibilidade en Kubuntu"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/accessibility.html:6
+msgid ""
+"We want to make computers work for everyone, whatever your physical "
+"circumstances. So, we provide tools that make Kubuntu one of the most "
+"accessible operating systems around."
+msgstr ""
+"Queremos que os computadores sexan útiles para todo o mundo, sen importar as "
+"súas capacidades físicas. Por iso, fornecemos ferramentas que fan de Kubuntu "
+"un dos sistemas operativos máis accesíbeis."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/accessibility.html:9
+msgid ""
+"You can get at these tools in one place: the <em>Accessibility</em> "
+"preferences, inside the Desktop Behavior from the System Settings "
+"application from the menu. From there, you can turn on helpful tools like "
+"<em>Modifier Keys</em>, <em>Keyboard Filters</em>, and <em>Activation "
+"Gestures</em>."
+msgstr ""
+"Pode acceder a estas ferramentas nun lugar: as preferencias de "
+"<em>Accesibilidade</em>, dentro do comportamento do escritorio, nos axustes "
+"do sistema. Desde aí pode activar ferramentas útiles como as <em>teclas "
+"modificadoras</em>, os <em>Filtros do teclado</em> e os <em>xestos de "
+"activación</em>."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/accessibility.html:13
+msgid "Remember to also look over the <em>Application Style</em>."
+msgstr "Lembre tamén botarlle unha ollada ao <em>estilo do aplicativo</em>."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/games.html:1
+msgid "Get your game on with Kubuntu"
+msgstr "Consiga os seus xogos en Kubuntu"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:6
+msgid ""
+"With hundreds of game titles in our online repository, Kubuntu allows you to "
+"not be all about work, but also allows you to play."
+msgstr ""
+"Con centos de xogos no noso repositorio en liña, Kubuntu non só lle permite "
+"traballar senón tamén xogar."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:9
+msgid "You can easily install Steam"
+msgstr "Pode instalar o Steam dun xeito doado"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:10
+msgid ""
+"The <em>KDE Applications</em> have quite a few games ranging from "
+"card games to logic games and board games."
+msgstr ""
+"A <em>Colección de software de KDE</em> dispón dun feixe de xogos que van "
+"desde xogos de cartas a xogos de lóxica e de taboleiro."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/games.html:12
+msgid ""
+"First Person Shooters, Role Playing Games, and more are also available in "
+"the repositories."
+msgstr ""
+"Nos repositorios hai xogos de disparos en primeira persoa, de rol e máis."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/get-help.html:1
+msgid "Getting help with Kubuntu"
+msgstr "Consiga axuda sobre Kubuntu"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/get-help.html:6
+msgid ""
+"If you need help, try <em>Help</em> from the menu, or the <em>Help</em> menu "
+"in most applications."
+msgstr ""
+"Se precisa axuda, probe en <em>Axuda</em> no menú principal, ou no menú "
+"<em>Axuda</em> na maioría dos aplicativos."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/get-help.html:8
+msgid ""
+"In addition to our extensive written help, the Kubuntu community in "
+"conjunction with the Ubuntu community, provides free technical support in "
+"person and over the Internet. Learn more at <a "
+"href=\"http://www.kubuntu.org/support\">kubuntu.org/support</a>."
+msgstr ""
+"Ademais da nosa extensiva axuda escrita, a comunidade de Kubuntu xunto coa "
+"comunidade de Ubuntu, fornece asistencia técnica en persoa ou mediante "
+"Internet. Saiba máis en <a "
+"href=\"http://www.kubuntu.org/support\">kubuntu.org/support</a>."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/get-help.html:12
+msgid ""
+"Let us know about your Kubuntu experience at <a "
+"href=\"http://www.kubuntu.org/community\">kubuntu.org/community</a>!"
+msgstr ""
+"Permítanos coñecer a súa experiencia con Kubuntu en <a "
+"href=\"http://www.kubuntu.org/community\">kubuntu.org/community</a>!"
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/get-involved.html:1
+msgid "Get involved and contribute to Kubuntu"
+msgstr "Involucrarse e colaborar en Kubuntu"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/get-involved.html:6
+msgid ""
+"The Kubuntu community consists of a group of individuals, who make up one of "
+"the greatest teams in the open source community, work on various aspects of "
+"the distribution, providing advice and technical support, as well as helping "
+"to promote Kubuntu to a wider audience."
+msgstr ""
+"A comunidade de Kubuntu consta dun grupo de persoas que forman un dos "
+"equipos máis grandes na comunidade do software libre, traballan en varios "
+"aspectos da distribución, fornecen axuda e asistencia técnica, e axudan a "
+"promocionar Kubuntu ante unha maior audiencia."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/get-involved.html:11
+msgid ""
+"No matter your skill level, getting involved and helping to mold the future "
+"of Kubuntu is easy, and you are more than welcome to help out."
+msgstr ""
+"Non importa o nivel das súas habilidades: involucrarse e axudar a deseñar o "
+"futuro de Kubuntu é doado e a súa aportación será máis que benvida."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/get-involved.html:14
+msgid ""
+"Look over <a "
+"href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase.kde.org/Kubuntu"
+"/Contribute</a> and see where you might be able to help out. Remember, it is "
+"easy to get involved and the work you do will be seen by millions of people "
+"around the world."
+msgstr ""
+"Bótelle unha ollada a <a "
+"href=\"https://userbase.kde.org/Kubuntu/Contribute\">userbase.kde.org/Kubuntu"
+"/Contribute</a> e vexa onde pode axudar. Lembre que  é doado participar e o "
+"seu traballo verano millóns de persoas de todo o mundo."
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/get-involved.html:20
+msgid "The installation will finish soon. We hope you enjoy Kubuntu."
+msgstr "A instalación logo rematará. Agardamos que goce con Kubuntu."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/graphics.html:1
+msgid "Organize, enjoy, and share your photos"
+msgstr "Organice, goce e comparta as súas fotografías"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/graphics.html:5
+msgid ""
+"With <em>Gwenview</em>, it is really easy to organize and share your photos."
+msgstr ""
+"Con <em>Gwenview</em> é realmente moi doado organizar e compartir "
+"fotografías."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/graphics.html:7
+msgid ""
+"Use the Export option to copy your photos to a remote computer, iPod, a "
+"custom HTML gallery, or to export to services such as Flickr, SmugMug, "
+"PicasaWeb, and more."
+msgstr ""
+"Use a opción Exportar para copiar as súas fotos nun equipo remoto, nun iPod, "
+"nunha galería HTML personalizada ou en servizos como Flickr, SmugMug, "
+"PicasaWeb e noutros."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/graphics.html:10
+msgid ""
+"For more advanced organization and editing features, <em>digiKam</em> is "
+"available for installation."
+msgstr ""
+"Se precisa características máis avanzadas de organización e edición, "
+"<em>digiKam</em> está ao seu dispor para que o instale."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/installing-software.html:1
+msgid "Installing additional software"
+msgstr "Instalación de software adicional"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/installing-software.html:6
+msgid ""
+"Take a look at the <em>Discover</em> application in the menu. "
+"Discover will allow you to install (and remove) software from our online "
+"repositories, which we carefully organize to be safe and up to date."
+msgstr ""
+"Bótelle unha ollada no menú ao aplicativo <em>Discover</em>. "
+"Discover permitiralle instalar (e eliminar) software dos repositorios en "
+"liña, os cales ordenamos con coidado para que sexan seguros e actualizados."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/installing-software.html:10
+msgid ""
+"There is great software for everything from creating music and movies to "
+"producing 3D models and exploring the universe."
+msgstr ""
+"Hai software excelente para calquera cousa, desde crear música e filmes ata "
+"producir modelos en 3D e explorar o universo."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/installing-software.html:12
+msgid ""
+"If you need something that isn't available through us, find out if there is "
+"a Debian package or another repository available. That way, it will be "
+"really easy to install and you will receive automatic updates."
+msgstr ""
+"Se precisa algo que non estea dispoñíbel ao través de nós, busque se hai un "
+"paquete Debian ou outro repositorio dispoñíbel. Dese xeito, seralle "
+"realmente doado instalalo e recibirá actualizacións automáticas."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/internet.html:1
+msgid "Make the most of the web"
+msgstr "Tire o máximo partido da web"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/internet.html:5
+msgid ""
+"Kubuntu includes Mozilla Firefox, the web browser used by millions of people "
+"around the world."
+msgstr ""
+"Kubuntu inclúe Mozilla Firefox, o navegador web usado por millóns de persoas "
+"de todo o mundo."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/internet.html:6
+msgid ""
+"Browse the web, share your files, software, and multimedia, send and receive "
+"e-mail, and communicate with friends and family."
+msgstr ""
+"Navegue polo web, comparta os ficheiros, programas e multimedia, envíe e "
+"reciba correos electrónicos e comuníquese coas súas amizades e familares."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/internet.html:9
+msgid ""
+"Web browsers such as <em>Chromium</em> and <em>Rekonq</em> are easily "
+"installable."
+msgstr ""
+"Navegadores web como <em>Chromium</em> e <em>Rekonq</em> poden instalarse "
+"facilmente."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/multimedia.html:1
+msgid "Music and movies in Kubuntu"
+msgstr "Música e filmes en Kubuntu"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/multimedia.html:5
+msgid ""
+"Kubuntu is ready to play videos and music from the web, from CDs and DVDs."
+msgstr ""
+"Kubuntu está preparado para reproducir vídeos e música da web, de CD e de "
+"DVD."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/multimedia.html:7
+msgid ""
+"<em>Amarok</em> audio player lets you organize your music and listen to "
+"Internet radio, podcasts, and more, as well as synchronizes your audio "
+"collection to a portable audio player."
+msgstr ""
+"O reprodutor de música <em>Amarok</em> permítelle organizar a súa música e "
+"escoitar emisoras de radio e podcasts da Internet, así como sincronizar a "
+"súa colección de música cun reprodutor de música portátil."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/multimedia.html:10
+msgid ""
+"<em>Dragon Player</em> allows you to easily watch videos from your computer, "
+"DVD, or streamed over the Internet."
+msgstr ""
+"O <em>Reprodutor Dragon</em> permítelle ver doadamente os vídeos que teña no "
+"equipo, nun DVD ou en emisóns e fluxos a través da Internet."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/office.html:1
+msgid "Office tools at your fingertips"
+msgstr "Ferramentas ofimáticas nas súas máns"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/office.html:5
+msgid ""
+"<em>LibreOffice</em> is a powerful office software suite that is very easy "
+"to learn and use."
+msgstr ""
+"<em>LibreOffice</em> é unha suite ofimática moi potente e doada de aprender."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/office.html:7
+msgid ""
+"Use it to create letters, presentations and spreadsheets, as well as "
+"diagrams and databases."
+msgstr ""
+"Úsea para crear cartas, presentacións e follas de cálculo, así como "
+"diagramas e bases de datos."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/office.html:9
+msgid ""
+"<em>LibreOffice</em> works with documents from other popular office "
+"applications including WordPerfect and Microsoft Office. It uses the "
+"standard OpenDocument format."
+msgstr ""
+"O <em>LibreOffice</em> funciona con documentos doutros aplicativos de "
+"ofimática populares, incluídos WordPerfect e o Office da Microsoft. Emprega "
+"o formato estándar OpenDocument."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/pim.html:1
+msgid "Manage your contacts, dates, and e-mail"
+msgstr "Xestione os seus contactos, datas e correo electrónico"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/pim.html:6
+msgid ""
+"<em>Kontact</em> is the fully-featured personal information management "
+"software that comes with Kubuntu. It contains applications for E-mail, "
+"Calendar, Address Book, and more."
+msgstr ""
+"<em>Kontact</em> é un completo programa de información persoal incluído en "
+"Kubuntu. Contén aplicativos para correo electrónico, calendario, caderno de "
+"enderezos e outros."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/pim.html:9
+msgid ""
+"Send e-mail with <em>KMail</em> from services such as Yahoo, GMail, and "
+"various groupware services."
+msgstr ""
+"Envíe correo electrónico con <em>KMail</em> mediante servizos como Yahoo, "
+"GMail e varios servizos de traballo en grupo."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/pim.html:11
+msgid ""
+"Organize your calendar and scheduling with <em>KOrganizer</em> and "
+"synchronize with services such as Google's Calendar."
+msgstr ""
+"Organice a súa axenda e o seu traballo con <em>KOrganizer</em> e "
+"sincroníceos con servizos como Google Calendar."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/pim.html:13
+msgid ""
+"Keep your contacts organized with <em>KAddressBook</em> and import or export "
+"your contacts with nearly every address book standard as well synchronize "
+"with various groupware services."
+msgstr ""
+"Manteña os seus contactos organizados con <em>KAddressBook</em>, importe ou "
+"exporte os seus contactos con case que calquera axenda de enderezos estándar "
+"e sincroníceos con varios servizos de traballo en grupo."
+
+#. type: Content of: <h1>
+#: slideshows/kubuntu/slides/welcome.html:1
+msgid "Welcome"
+msgstr "Benvido/a"
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/welcome.html:6
+msgid ""
+"Thank you for choosing Kubuntu 17.04. We hope you enjoy the experience."
+msgstr ""
+"Grazas por escoller o Kubuntu 17.04. Esperamos que goce co experiencia."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/welcome.html:8
+msgid ""
+"We believe every computer user should be free to work in the environment "
+"they choose, and be free to download, change, study and share their software "
+"with anyone, for any purpose."
+msgstr ""
+"Cremos que todos os usuarios de computador deberían ser libres para "
+"traballar no contorno que escollan, e libres de descargar, cambiar, estudar "
+"e compartir o seu software con todos, con calquera propósito."
+
+#. type: Content of: <div><div><ul><li>
+#: slideshows/kubuntu/slides/welcome.html:11
+msgid ""
+"We want Kubuntu to work for you. So while your software is installing, this "
+"slideshow will introduce you to Kubuntu 17.04."
+msgstr ""
+"Queremos que o Kubuntu funcione para vostede. Por iso mentres se instala o "
+"software, estas diapositivas introducirano no Kubuntu 17.04."
+
+#. type: Content of: <div><div><p>
+#: slideshows/kubuntu/slides/welcome.html:15
+msgid "Kubuntu is designed to be easy. Feel free to explore!"
+msgstr "Kubuntu deseñouse para ser doado, síntase libre de exploralo!"
+
+#~ msgid ""
+#~ "We want Kubuntu to work for you. So while your software is installing, this "
+#~ "slideshow will introduce you to Kubuntu 17.04."
+#~ msgstr ""
+#~ "Desexamos que Kubuntu lle sexa útil.  Por iso mentres se instala o software, "
+#~ "esta presentación introducirao no Kubuntu 17.04."
+
+#~ msgid ""
+#~ "Thank you for choosing Kubuntu 17.04. We hope you enjoy the experience."
+#~ msgstr ""
+#~ "Grazas por escoller Kubuntu 17.04. Esperamos que goce coa experiencia."

@@ -1,0 +1,269 @@
+# Serbian translation for ubiquity-slideshow-ubuntu
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2012, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"PO-Revision-Date: 2016-11-11 16:32+0000\n"
+"Last-Translator: Саша Петровић <salepetronije@gmail.com>\n"
+"Language-Team: Serbian <gnom@prevod.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
+"X-Generator: Launchpad (build 18334)\n"
+"Language: sr\n"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/accessibility.html:1
+msgid "Access for everyone"
+msgstr "Приступ за свакога"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/accessibility.html:8
+msgid ""
+"At the heart of the Ubuntu philosophy is the belief that computing is for "
+"everyone. With advanced accessibility tools and options to change language, "
+"colour scheme and text size, Ubuntu makes computing easy – whoever and "
+"wherever you are."
+msgstr ""
+"Срж мудрости Убунта је уверење да је рачунарство намењено свима. Са "
+"напредним прибором за приступачност и испомоћ и могућностима промене језика, "
+"обрасца боја и величине писма, Убунту олакшава употребу рачунара. Било ко и "
+"било где да сте."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/accessibility.html:12
+msgid "Customization options"
+msgstr "Могућности прилагођавања"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/accessibility.html:16
+msgid "Appearance"
+msgstr "Изглед"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/accessibility.html:20
+msgid "Assistive technologies"
+msgstr "Технологије за испомоћ"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/accessibility.html:24
+msgid "Language support"
+msgstr "Језичка подршка"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/browse.html:1
+msgid "Make the most of the web"
+msgstr "Искористите што више од Интернета"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/browse.html:8
+msgid ""
+"Ubuntu includes Firefox, the web browser used by millions of people around "
+"the world. And web applications you use frequently (like Facebook or Gmail, "
+"for example) can be pinned to your desktop for faster access, just like apps "
+"on your computer."
+msgstr ""
+"Убунту долази са Фајерфоксом, прегледачем мреже кога користе милиони људи "
+"широм света. А програме веба које често користите (нпр. Фејсбук, Гуглову "
+"пошту, и сл.) можете да прикачите на радну површ зарад бржег приступа, "
+"управо као и програме на вашем рачунару."
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/browse.html:12
+#: slideshows/oem-config-ubuntu/slides/music.html:11
+#: slideshows/oem-config-ubuntu/slides/office.html:12
+#: slideshows/oem-config-ubuntu/slides/photos.html:12
+msgid "Included software"
+msgstr "Укључени програми"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/browse.html:16
+msgid "Firefox web browser"
+msgstr "Фајерфокс прегледник мреже"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/oem-config-ubuntu/slides/browse.html:19
+#: slideshows/oem-config-ubuntu/slides/photos.html:19
+msgid "Supported software"
+msgstr "Подржани програми"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/browse.html:23
+msgid "Flash"
+msgstr "Флеш"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/browse.html:27
+msgid "Chromium"
+msgstr "Хромијум"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:1
+msgid "Help and support"
+msgstr "Помоћ и подршка"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:8
+msgid ""
+"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"covers many of the most common areas about Ubuntu. It's available both <a "
+"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
+"the System menu."
+msgstr ""
+"<span class=\"app\" data-app=\"docs\">Званична документација</span> покрива "
+"многе од најчешћих области о Убунтуу. Доступна је и <a "
+"href=\"https://help.ubuntu.com\">на мрежи</a> и путем ставке Убунтуове "
+"помоћи у изборнику система."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:12
+msgid ""
+"At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
+"search an impressive collection of already answered questions. Support in "
+"your own language may be provided by your <a "
+"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
+msgstr ""
+"На <a href=\"http://askubuntu.com\">Питајте Убунту</a> можете да поставите "
+"питања и да претражите завидну збирку већ одговорених питања. Подршку на "
+"српском језику обезбеђује <a href=\"http://loco.ubuntu.com/teams/\">екипа "
+"локалне заједнице</a>."
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/gethelp.html:16
+msgid ""
+"For pointers to other useful resources, please visit <a "
+"href=\"http://community.ubuntu.com/help-"
+"information/\">community.ubuntu.com/help-information</a> or <a "
+"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+msgstr ""
+"За указиваче на друга корисна изворишта, посетите <a "
+"href=\"http://community.ubuntu.com/help-"
+"information/\">community.ubuntu.com/help-information</a> или <a "
+"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/music.html:2
+msgid "Take your music with you"
+msgstr "Понесите вашу музику са собом"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/music.html:7
+msgid ""
+"Ubuntu comes with the amazing Rhythmbox music player. With advanced playback "
+"options, it's simple to queue up the perfect songs. And it works great with "
+"CDs and portable music players, so you can enjoy all your music wherever you "
+"go."
+msgstr ""
+"Убунту долази са невероватном Ритам Машином програмом за слушање музике. Са "
+"напредним могућностима пуштања, веома је лако поређати списак омиљених "
+"песама. И ради одлично са звучним дисковима и преносивим уређајима за "
+"пуштање музике, тако да можете уживати у вашим песмама где год да се "
+"налазите."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/music.html:15
+msgid "Rhythmbox Music Player"
+msgstr "Ритам машина музички програм"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/office.html:1
+msgid "Everything you need for the office"
+msgstr "Све што ће вам икада требати у канцеларији"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:8
+msgid ""
+"LibreOffice is a free office suite packed with everything you need to create "
+"documents, spreadsheets and presentations. Compatible with Microsoft Office "
+"file formats, it gives you all the features you need, without the price tag."
+msgstr ""
+"Либреофис је бесплатан канцеларијски пакет који садржи све што вам је "
+"потребно за прављење докумената, таблица и презентација. Усаглашен је са "
+"форматима Мајкрософт Офиса, даје вам све потребне могућности и то бесплатно."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:16
+msgid "LibreOffice Writer"
+msgstr "Либреофис писац"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:20
+msgid "LibreOffice Calc"
+msgstr "Либреофис рачун"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/office.html:24
+msgid "LibreOffice Impress"
+msgstr "Либреофис презентација"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/photos.html:1
+msgid "Have fun with your photos"
+msgstr "Поиграјте се са вашим сликама"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/photos.html:8
+msgid ""
+"Shotwell is a handy photo manager that is ready for your gadgets. Connect a "
+"camera or a phone to transfer your photos, then it’s easy to share them and "
+"keep them safe. If you’re feeling creative, you can try lots of photo apps "
+"from the Ubuntu Software Center."
+msgstr ""
+"Фото-бунар је користан управник слика који подржава све ваше справице. "
+"Повежите фотоапарат или телефон да пренесете ваше слике и затим их са "
+"лакоћом делите и чувајте. Ако сте маштовити онда можете пробати и многе "
+"друге програме намењене фотографијама из Убунтуовог софтверског центра."
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/photos.html:16
+msgid "Shotwell Photo Manager"
+msgstr "Управник слика Фото-бунар"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/photos.html:23
+msgid "GIMP Image Editor"
+msgstr "Гимп програм за обраду слика"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/oem-config-ubuntu/slides/photos.html:27
+msgid "Pitivi Video Editor"
+msgstr "Питиви видео уредник"
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/usc.html:1
+msgid "Find even more software"
+msgstr "Пронађите још више програма"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/usc.html:8
+msgid ""
+"Say goodbye to searching the web for new software. With access to the Ubuntu "
+"Software Store, you can find and install new apps with ease. Just type in "
+"what you’re looking for, or explore categories such as Science, Education "
+"and Games, alongside helpful reviews from other users."
+msgstr ""
+"Време када смо претраживали мрежу за новим програмима је срећом прошло. Са "
+"приступом Убунтуовој софтверској радњи, можете пронаћи и инсталирати нове "
+"програме веома лако. Само упишите оно што тражите или прегледајте одељке као "
+"што су наука, образовање, игре. Такође, УСЦ садржи коментаре корисника који "
+"вам могу помоћи приликом избора програма."
+
+#. type: Content of: <div><h1>
+#: slideshows/oem-config-ubuntu/slides/welcome.html:1
+msgid "Welcome to Ubuntu"
+msgstr "Добродошли у Убунту"
+
+#. type: Content of: <div><div><div><p>
+#: slideshows/oem-config-ubuntu/slides/welcome.html:8
+msgid ""
+"Fast and full of new features, the latest version of Ubuntu makes computing "
+"easier than ever. Here are just a few cool new things to look out for…"
+msgstr ""
+"Бржи и бољи, најновији Убунту је лакши за коришћење више него икада до сад. "
+"Ево неколико одличних ствари на које треба да обратите пажњу…"
