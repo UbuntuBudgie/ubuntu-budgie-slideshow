@@ -7,17 +7,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-04-16 17:15+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
+"PO-Revision-Date: 2018-04-11 17:42+0000\n"
 "Last-Translator: Rūdolfs Mazurs <Unknown>\n"
 "Language-Team: Latvian <lv@li.org>\n"
+"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: lv\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -96,11 +96,6 @@ msgstr "Atbalstītā programmatūra"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -112,41 +107,35 @@ msgstr "Palīdzība un atbalsts"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"The <span class=\"app\" data-app=\"docs\">official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
-"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System menu."
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"<span class=\"app\" data-app=\"docs\">Oficiālā dokumentācija</span> daudzus "
-"biežākos Ubuntu jautājumus. Tā ir pieejama gan <a "
-"href=\"https://help.ubuntu.com\">tiešsaistē</a>, gan Ubuntu palīdzībā "
-"Sistēmas izvēlnē."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a "
-"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
 msgstr ""
 "Iekš <a href=\"http://askubuntu.com\">\"Jautā Ubuntu\"</a> Jūs varat uzdot "
 "jautājumus un skatīt iespaidīgu kolekciju ar jau atbildētiem jautājumiem. "
-"Atbalstu Jūsu valodā var sniegt Jūsu <a "
-"href=\"http://loco.ubuntu.com/teams/\">Lokālās kopienas komanda</a>."
+"Atbalstu Jūsu valodā var sniegt Jūsu <a href=\"http://loco.ubuntu.com/teams/"
+"\">Lokālās kopienas komanda</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a "
-"href=\"http://community.ubuntu.com/help-"
-"information/\">community.ubuntu.com/help-information</a> or <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
-"Lai iegūtu norādes uz noderīgāku informāciju, lūgums apmeklēt <a "
-"href=\"http://community.ubuntu.com/help-"
-"information/\">community.ubuntu.com/help-information</a> vai <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Lai iegūtu norādes uz citiem noderīgiem resursiem, apmeklējiet <a href="
+"\"https://www.ubuntu.com/support/community-support\">kopienas atbalstu</a> "
+"vai <a href=\"http://www.ubuntu.com/support\">komerciālo atbalstu</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -168,6 +157,21 @@ msgstr ""
 #: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Rhythmbox mūzikas atskaņotājs"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/music.html:18
+msgid "Available software"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:22
+msgid "Spotify"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:26
+msgid "VLC"
+msgstr ""
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
@@ -242,15 +246,17 @@ msgstr "Atrodiet vēl vairāk programmatūras"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With access to the Ubuntu "
-"Software Store, you can find and install new apps with ease. Just type in "
-"what you’re looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Sakiet ardievas programmatūras meklēšanai tīmeklī. Ar Ubuntu programmatūras "
-"veikalu jūs varat atrast un instalēt jaunas lietotnes. Ierakstiet, ko "
-"vēlaties atrast, vai pārlūkojiet kategorijas, piemēram, Zinātne, Izglītība "
-"un Spēles, kā arī apskatiet atsauksmes no citiem lietotājiem."
+"Sakiet ardievas jaunas programmatūras meklēšanai tīmeklī. Līdz ar piekļuvi "
+"Snap veikalam un Ubuntu programmatūras arhīvam, jūs varat viegli atrast un "
+"instalēt jaunas lietotnes. Ierakstiet, ko meklējat, vai izpētiet "
+"kategorijas, piemēram “Grafika un fotogrāfijas”, “Spēles” un "
+"“Produktivitāte” līdzās noderīgām atsauksmēm no citiem lietotājiem."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1

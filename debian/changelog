@@ -1,3 +1,347 @@
+ubiquity-slideshow-ubuntu (163ubuntu1) hirsute; urgency=medium
+
+  [ Brian Murray ]
+  * Fix typo of the word strategy in 07_games slide. (LP: #1870214)
+  * Update Software Center name, patch from mpt. 
+ 
+  [ Łukasz 'sil2100' Zemczak ]
+  * Updated launchpad translations
+
+  [ handsome_feng ]
+  * Adjust the slideshow for Ubuntu Kylin groovy.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 20 Oct 2020 15:46:37 +0200
+
+ubiquity-slideshow-ubuntu (162) groovy; urgency=medium
+
+  [ Martin Wimpress]
+  * Update welcome image to feature the mascot wearing Pi tinted
+    sunglasses. (LP: #1899955)
+
+ -- Martin Wimpress <martin.wimpress@ubuntu.com>  Fri, 16 Oct 2020 10:13:06 +0100
+
+ubiquity-slideshow-ubuntu (161) groovy; urgency=medium
+
+  [ Martin Wimpress]
+  * Update Ubuntu slideshow for Groovy
+
+ -- Jean-Baptiste Lallement <jean-baptiste.lallement@ubuntu.com>  Thu, 15 Oct 2020 09:06:41 +0200
+
+ubiquity-slideshow-ubuntu (160) focal; urgency=medium
+
+  * Restore Ubuntukylin translations that were reverted by the previous
+    upload, those were patched inliner rather than done on launchpad,
+    that has been fixed now (lp: #1873543)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Mon, 20 Apr 2020 10:35:23 +0200
+
+ubiquity-slideshow-ubuntu (159) focal; urgency=medium
+
+  * Updated launchpad translations
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Wed, 15 Apr 2020 17:08:09 +0200
+
+ubiquity-slideshow-ubuntu (158) focal; urgency=medium
+
+  [ Martin Wimpress]
+  * Update to list Thunderbird as "Included software". (LP: #1869008)
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 01 Apr 2020 21:41:13 +0200
+
+ubiquity-slideshow-ubuntu (157) focal; urgency=medium
+
+  * Resize ubuntu budgie welcome background to display correct on slideshow
+
+ -- fossfreedom <davidmohammed@gmail.com>  Wed, 01 Apr 2020 21:31:07 +0200
+
+ubiquity-slideshow-ubuntu (156) focal; urgency=medium
+
+  * debian/control:
+    - updated the Standards-Version and debhelper use
+
+  [ Erich Eickmeyer ]
+  * Updates slide images and background for Ubuntu Studio
+
+  [ handsome_feng ]
+  * Update ubuntukylin slideshow for focal.
+
+  [ Martin Wimpress ]
+  * Updated focal slideshows and screenshots
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Fri, 13 Mar 2020 11:28:31 +0100
+
+ubiquity-slideshow-ubuntu (153ubuntu1) focal; urgency=medium
+
+  * debian/control:
+    - remove the Build-Depends on python-utidylib, it not needed anymore
+      and the package has been removed from focal
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 05 Mar 2020 12:32:39 +0100
+
+ubiquity-slideshow-ubuntu (153) focal; urgency=medium
+
+  * Add Focal Fossa artwork.
+
+ -- Martin Wimpress <martin.wimpress@ubuntu.com>  Tue, 03 Mar 2020 13:34:49 +0100
+
+ubiquity-slideshow-ubuntu (152) focal; urgency=medium
+
+  * Don't use the unversioned python package/binary
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 23 Jan 2020 11:50:31 +0200
+
+ubiquity-slideshow-ubuntu (151) focal; urgency=medium
+
+  [ Martin Wimpress ]
+  * Updates the style of the Ubiquity slideshow for Ubuntu to match Yaru.
+    Also, refresh the screenshots in the slideshow for 20.04 and removes
+    some obsolete images.
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 23 Jan 2020 10:35:49 +0200
+
+ubiquity-slideshow-ubuntu (150) eoan; urgency=medium
+
+  * Updated translations from Launchpad.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Thu, 10 Oct 2019 10:29:39 -0400
+
+ubiquity-slideshow-ubuntu (149) eoan; urgency=medium
+
+  [ Martin Wimpress ]
+  * Update Ubuntu MATE slides to reflect new default apps.
+    (LP: #1843297, #1843311)
+  * debian/control:
+    + Change Conflicts/Replaces from oem-config-slideshow-ubuntu to
+      oem-config-slideshow for oem-slideshow-ubuntu-{mate,budgie}
+      (LP: #1842047, #1713720)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Tue, 01 Oct 2019 18:28:07 +0200
+
+ubiquity-slideshow-ubuntu (148) eoan; urgency=medium
+
+  [ Will Cooke ]
+  * Adds new screenshots for the slideshow update for 19.10. No strings
+    changes. UIFe has been filed and approved. Fixes LP: #1845023
+
+  [ handsome_feng ]
+  * ubuntukylin: Update welcome and wps pages and the related po files
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Tue, 24 Sep 2019 16:18:05 +0200
+
+ubiquity-slideshow-ubuntu (147) eoan; urgency=medium
+
+  [ Pasi Lallinaho ]
+  * Update webchat link in the Xubuntu slideshow
+
+  [ Erich Eickmeyer ]
+  * Update UbuntuStudio slideshow. (LP: #1843196)
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 16 Sep 2019 09:01:15 +0100
+
+ubiquity-slideshow-ubuntu (146) disco; urgency=medium
+
+  [ handsome_feng ]
+  * Change 18.10 to 19.04 in welcome.html and update all related translation
+    files.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Updated translations from Launchpad.
+
+  [ Erich Eickmeyer ]
+  * Update Ubuntu Studio screenshot in slideshow. (LP: #1822663)
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 01 Apr 2019 16:14:27 -0400
+
+ubiquity-slideshow-ubuntu (145) disco; urgency=medium
+
+  [ Will Cooke ]
+  * Fix date shown in office slide screenshot.
+  
+  [ handsome_feng ]
+  * Update two screenshots for Ubuntu Kylin 19.04.
+
+  [ fossfreedom ]
+  * Update SlideShow test utility to use WebKit2
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 14 Mar 2019 15:27:11 +0100
+
+ubiquity-slideshow-ubuntu (144) disco; urgency=medium
+
+  [ Brian Murray ]
+  * Fix miscapitalized letter in the "Help and support" slide. (LP: #1763077)
+
+  [ Will Cooke ]
+  * Refreshed the slides for disco (lp: #1819868)
+  
+  [ fossfreedom ]
+  * Disco changes for Ubuntu Budgie
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Wed, 13 Mar 2019 17:20:18 +0100
+
+ubiquity-slideshow-ubuntu (143) cosmic; urgency=medium
+
+  * Update translations from Launchpad.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Thu, 11 Oct 2018 16:37:57 +0200
+
+ubiquity-slideshow-ubuntu (142) cosmic; urgency=medium
+
+  [ Aaron Honeycutt ]
+  * Update the Kubuntu slideshow for 18.10.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Tue, 09 Oct 2018 07:38:39 -0500
+
+ubiquity-slideshow-ubuntu (141) cosmic; urgency=medium
+
+  [ Olivier Tilloy ]
+  * Update libreoffice icons to use the official branding (libreoffice 6.1).
+
+ -- Didier Roche <didrocks@ubuntu.com>  Mon, 08 Oct 2018 18:20:42 +0200
+
+ubiquity-slideshow-ubuntu (140) cosmic; urgency=medium
+
+  * Updated content for cosmic (wallpaper, theme colors, icons)
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Thu, 04 Oct 2018 15:47:18 +0200
+
+ubiquity-slideshow-ubuntu (139) cosmic; urgency=medium
+
+  * Completely removing Lubuntu, as Calamares will be their installer.
+
+ -- Walter Lapchynski <wxl@ubuntu.com>  Tue, 15 May 2018 20:39:15 -0700
+
+ubiquity-slideshow-ubuntu (138) bionic; urgency=medium
+
+  * Update translations from Launchpad (LP: #1767048).
+
+ -- Colin Watson <cjwatson@ubuntu.com>  Thu, 26 Apr 2018 12:10:55 +0100
+
+ubiquity-slideshow-ubuntu (137) bionic; urgency=medium
+
+  * Fix the Kubuntu slideshow so the back arrow doesn't look like a slide
+    advancement (LP: #1761592).
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sun, 22 Apr 2018 00:57:07 -0500
+
+ubiquity-slideshow-ubuntu (136) bionic; urgency=medium
+
+  [ Jean-Baptiste Lallement ]
+  * Kubuntu slideshow FTBFS:
+    - Fixed closing div tag (LP: #1760035)
+
+ -- Jean-Baptiste Lallement <jean-baptiste.lallement@ubuntu.com>  Fri, 30 Mar 2018 09:41:27 +0200
+
+ubiquity-slideshow-ubuntu (135) bionic; urgency=medium
+
+  [ Will Cooke ]
+  * Updates for Ubuntu Desktop 18.04 (LP: #1759601)
+    - Added Beaver welcome graphics source.
+    - Updated screenshots to 18.04.
+    - Updated usc.html to include mention of the snap store.
+
+  [ Jean-Baptiste Lallement ]
+    - Refreshed pot files for ubuntu and oem-config-ubuntu
+    - Fixed broken link music.jpg for oem-config-ubuntu
+
+  [ Aaron Honeycutt ]
+  * Refreshed Kubuntu slideshow for 18.04.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Thu, 29 Mar 2018 13:52:49 -0400
+
+ubiquity-slideshow-ubuntu (134) bionic; urgency=medium
+
+  [ Jeremy Bicha ]
+  * Switch from cdbs to dh
+  * Bump debhelper compat to 11
+  * Bump Standards-Version to 4.1.2
+  * Drop useless debian/source/options (default xz compression is fine)
+
+  [ Pasi Lallinaho ]
+  * Update slides for Xubuntu 18.04
+
+ -- Jeremy Bicha <jbicha@debian.org>  Mon, 25 Dec 2017 10:09:01 -0500
+
+ubiquity-slideshow-ubuntu (133) artful; urgency=medium
+
+  * Update translations from launchpad.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Tue, 17 Oct 2017 12:20:54 -0400
+
+ubiquity-slideshow-ubuntu (132) artful; urgency=medium
+
+  [ Jeremy Bicha ]
+  * Drop ubiquity-slideshow-ubuntu-gnome
+
+  [ Rafael Laguna (Redwolf) ]
+  * Updated Lubuntu slideshow for different apps in 17.10:
+    - Gnome-Mplayer -> Gnome MPV
+    - Flash -> Qupzilla
+
+  [ Liu Peng ]
+  * Fix a character rendering issue due to text size for the zh version of the
+    Ubuntu Kylin slideshow: "专" showed imcompletely. (LP: #1719813)
+
+  [ Martin Wimpress ]
+  * Update screenshots for the Ubuntu MATE flavour.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Update translations from Launchpad.
+  * Hand-edited translations and slideshow slides where necessary to refer to
+    17.10 rather than 17.04.
+  * Drop stray remaining mentions of ubuntu-gnome.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Sun, 08 Oct 2017 12:34:45 -0400
+
+ubiquity-slideshow-ubuntu (131) artful; urgency=medium
+
+  * po/ubuntukylin/en_GB.po: Manually fix up syntax error.
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 25 Sep 2017 22:37:49 +0100
+
+ubiquity-slideshow-ubuntu (130) artful; urgency=medium
+
+  [ Aaron Honeycutt ]
+  * Small enhancements to the Kubuntu slideshow.
+
+  [ liupeng ]
+  * Update UbuntuKylin slideshow for 17.10.
+
+  [ Will Cooke ]
+  * Update Ubuntu slideshow for 17.10.
+  * Aardvarkify the slideshow. (LP: #1717309)
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Wed, 20 Sep 2017 10:06:42 -0400
+
+ubiquity-slideshow-ubuntu (129) artful; urgency=medium
+
+  [ Pasi Lallinaho ]
+  * Update Xubuntu slideshow to 17.10.
+
+  [ Martin Wimpress ]
+  * Update Ubuntu MATE slideshow for 17.10.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Hand edit translations, update templates to remove duplicates.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Mon, 28 Aug 2017 19:30:42 -0400
+
+ubiquity-slideshow-ubuntu (128) artful; urgency=medium
+
+  [ David Mohammed ]
+  * Updates to Ubuntu Budgie slideshow:
+    - Wording and picture changes for 17.10
+    - Adding an oem-config slideshow package for Ubuntu Budgie.
+
+  [ Aaron Honeycutt ]
+  * Updates to Kubuntu slideshow for 17.10.
+
+  [ Mathieu Trudel-Lapierre ]
+  * Update all translation templates.
+  * Generate an initial en_CA translation to allow the budgie OEM slideshow
+    to build.
+
+ -- Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>  Fri, 18 Aug 2017 17:10:39 -0400
+
 ubiquity-slideshow-ubuntu (127) artful; urgency=medium
 
   * Fix html syntax for the Kubuntu slides to be valid.
@@ -261,7 +605,7 @@ ubiquity-slideshow-ubuntu (100) wily; urgency=medium
 
 ubiquity-slideshow-ubuntu (99) wily; urgency=medium
 
-  * Update slideshow for Ubuntu GNOME 15.10 
+  * Update slideshow for Ubuntu GNOME 15.10
 
  -- Tim Lunn <tim@feathertop.org>  Sun, 30 Aug 2015 17:25:37 +1000
 
@@ -727,7 +1071,7 @@ ubiquity-slideshow-ubuntu (59) quantal; urgency=low
   * Lubuntu: Change the link to the mailing list
 
   [ Harald Sitter ]
-  * Kubuntu: Remove reference to commercial support from Canonical 
+  * Kubuntu: Remove reference to commercial support from Canonical
 
   [ Dylan McCall ]
   * Support slideshow customization with ubiquity-slideshow/extra folder
@@ -925,7 +1269,7 @@ ubiquity-slideshow-ubuntu (42) oneiric; urgency=low
  -- Evan Dandrea <evand@ubuntu.com>  Wed, 07 Sep 2011 21:54:16 +0100
 
 ubiquity-slideshow-ubuntu (41) oneiric; urgency=low
- 
+
   * Bump version strings to 11.10.
 
  -- Evan Dandrea <ev@ubuntu.com>  Thu, 25 Aug 2011 11:12:17 +0100
@@ -1292,7 +1636,7 @@ ubiquity-slideshow-ubuntu (12) lucid; urgency=low
     WebKit.
   * Changed default slide interval for slideshows to 45s
     (LP: #423639)
-  
+
   [ Evan Dandrea ]
   * Put Kubuntu slides in their own directory to avoid having to make
     each slideshow package conflict.

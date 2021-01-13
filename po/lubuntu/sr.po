@@ -5,22 +5,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2017-03-20 19:55+0000\n"
-"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
+"PO-Revision-Date: 2020-02-13 10:31+0000\n"
+"Last-Translator: Саша Петровић <salepetronije@gmail.com>\n"
 "Language-Team: Serbian <gnom@prevod.org>\n"
+"Language: Serbian (sr)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: Serbian (sr)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
-msgid "Welcome to Lubuntu 17.04"
-msgstr "Добро дошли у Лубунту 17.04"
+msgid "Welcome to Lubuntu"
+msgstr "Добродошли у Лубунту"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/00_welcome.html:8
@@ -57,9 +57,9 @@ msgid ""
 "browser used by millions around the world. It's safe, stable, fast and "
 "supports customization through add-ons."
 msgstr ""
-"Прегледајте веб користећи <em>Фајерфокс</em>, више платформски веб "
-"прегледник отвореног кода кога користе милиони широм света. Безбедан је, "
-"стабилан, брз и подржава прилагођавање помоћу додатака."
+"Прегледајте веб користећи <em>Фајерфокс</em>, вишеплатформски  прегледник "
+"веба отвореног кода кога користе милиони широм света. Безбедан је, стабилан, "
+"брз и подржава прилагођавање помоћу додатака."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/lubuntu/slides/02_browser.html:12
@@ -67,7 +67,7 @@ msgstr ""
 #: slideshows/lubuntu/slides/04_media.html:18
 #: slideshows/lubuntu/slides/05_social.html:12
 msgid "Included software"
-msgstr "Укључени програми"
+msgstr "Садржај програма"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:16
@@ -84,8 +84,8 @@ msgstr "Подржани програми"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:23
-msgid "Flash"
-msgstr "Флеш"
+msgid "Qupzilla"
+msgstr "Купзила"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:28
@@ -123,7 +123,7 @@ msgstr "Гнумерик"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/03_office.html:27
 msgid "LibreOffice"
-msgstr "Либре Офис"
+msgstr "Либреофис"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/04_media.html:1
@@ -134,12 +134,12 @@ msgstr "Уживајте у музици и видеу"
 #: slideshows/lubuntu/slides/04_media.html:10
 msgid ""
 "Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
-"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
-"video player powered by mplayer with support for many formats."
+"audio player. And enjoy all your videos with <em>Gnome MPV</em>, the next "
+"generation video player, with support for many formats."
 msgstr ""
-"Слушајте омиљену музику у <em>Безочнику</em>, једноставном, али моћном "
-"извођачу музике. Уживајте у видео садржајима у <em>Гном-мплејеру</em>, брзом "
-"извођачу видеа подржаном Мплејером са подршком за много формата."
+"Слушајте омиљену музику помоћу <em>Безоћником</em>, једноставним, али моћним "
+"извођачем музике. И, уживајте са својим видеима преко <em>Гномовог МПВ-а</"
+"em>, следећим поколењем извођача видеа, са подршком за многе облике видеа."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -157,8 +157,8 @@ msgstr "Безочник (Audacious)"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
-msgid "Gnome-Mplayer"
-msgstr "Гном-Мплејер"
+msgid "Gnome MPV"
+msgstr "Гномов МПВ"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
@@ -168,7 +168,7 @@ msgstr "Егзаил"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:41
 msgid "VLC media player"
-msgstr "ВЛЦ извођач садржаја"
+msgstr "ВЛЦ, извођач медијских садржаја"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/05_social.html:1
@@ -194,26 +194,26 @@ msgstr "Пиџин"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/05_social.html:23
 msgid "Empathy"
-msgstr "Интернет писмоноша"
+msgstr "Интернет-писмоноша"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/06_lsc.html:1
+#: slideshows/lubuntu/slides/06_software.html:1
 msgid "Download software with ease"
 msgstr "Преузимајте програме са лакоћом"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/06_lsc.html:8
+#: slideshows/lubuntu/slides/06_software.html:8
 msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included. This means that thousands of new applications are ready "
-"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"for your computer, free of charge. Use the revamped <em>Software</em> app "
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
-"Са Лубунтом имате приступ целом складишту Убунта и свом укљученом софтверу у "
-"њему. То значи да је хиљаде нових програма спремно за ваш рачунар. Користите "
-"<em>Лубунту програмски центар</em> и истражите врсте, као што су игре, наука "
-"и учење, или потражите своје омиљене програме."
+"Са Лубунтом имате приступ ризницама читавог Убунта и свег садржаног "
+"софтвера. Ово значи стотине нових програма спремних за Ваш рачунар, "
+"бесплатних. Користите прераћени програм <em>Програми</em> и истражите по "
+"врстама као што су игре, наука и образовање, или тражите омиљене програме."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
@@ -226,14 +226,13 @@ msgid ""
 "One of the biggest advantages with Lubuntu is the wonderful community that "
 "comes with it. Other users will gladly help you out if you encounter "
 "problems. There are many different ways to get help, the easiest way is to "
-"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"visit our <a href=\"http://lubuntu.me/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
-"Једна од највећих предности Лубунтуа је предивна заједница која долази са "
-"њим. Други корисници ће радо помоћи ако наиђете на потешкоћу. Има много "
-"различитих начина да се добије помоћ, а најлакши начин је да се посети наша "
-"<a href=\"http://lubuntu.net/\">веб адреса</a>, јер смо ту скупили све "
-"податке коју су вам потребни."
+"Највећа предност Лубунта је дивна заједница која га води. Остали корисници "
+"ће Вам радо помоћи ако наиђете на  проблеме. Има више начина за добијање "
+"помоћи, а најлакши начин је дапосетите наше <a href=\"http://lubuntu.me/"
+"\">странице</a>, пошто смо скупили све податке који Вам могу затребати."
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
@@ -246,12 +245,8 @@ msgid ""
 "The installation will finish soon. We hope you will enjoy Lubuntu and all "
 "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
 "either by giving us feedback or by getting involved in the project, please "
-"visit our <a href=\"http://lubuntu.net/\">website</a>."
+"visit our <a href=\"http://lubuntu.me/\">website</a>."
 msgstr ""
-"Инсталација ће се ускоро завршити, Надамо се да ћете уживати у Лубунту и "
-"свој слободи која долази са њим. Ако желите да нам помогнете да побољшамо "
-"Лубунту, или давањем одзива, или укључењем у пројекат, посетите нашу <a "
-"href=\"http://lubuntu.net/\">веб страницу</a>."
-
-#~ msgid "Welcome to Lubuntu 17.04"
-#~ msgstr "Добродошли у Лубунту 17.04"
+"Уградња система ће ускоро бити довршена. Надамо се да ћете уживати у Лубунту "
+"и свој слободи која долази са њим. Ко желите да нам помогнете у побољшању "
+"Лубунта, молим, посетите наше <a href=\"http://lubuntu.me/\">странице</a>."

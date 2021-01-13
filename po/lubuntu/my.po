@@ -6,20 +6,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 12:04+0100\n"
 "PO-Revision-Date: 2013-04-04 09:51+0000\n"
 "Last-Translator: Mg Ngapyin <mg.ngapyin@aol.com>\n"
 "Language-Team: Burmese <my@li.org>\n"
+"Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/00_welcome.html:1
-msgid "Welcome to Lubuntu 17.04"
+msgid "Welcome to Lubuntu"
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
@@ -27,9 +28,7 @@ msgstr ""
 msgid ""
 "Lubuntu is designed to be lightweight, easy and fast. Let's have a closer "
 "look!"
-msgstr ""
-"Lubuntu ကို ပေါ့ပါးမြန်ဆန်စွာနှင့် လွယ်ကူအောင် သုံးနိုင်အောင် "
-"ပြုလုပ်ထားပါတယ်။"
+msgstr "Lubuntu ကို ပေါ့ပါးမြန်ဆန်စွာနှင့် လွယ်ကူအောင် သုံးနိုင်အောင် ပြုလုပ်ထားပါတယ်။"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/01_lxde.html:1
@@ -43,9 +42,9 @@ msgid ""
 "energy-saving desktop environment. LXDE has been proven to work well with "
 "both old and new computers, ensuring you a smooth desktop experience."
 msgstr ""
-"Lubuntu ကို <em>LXDE Desktop Environment</em> ကိုအခြေခံပြုလုပ်ထားပါတယ်။ LXDE "
-"Desktop ဟာ ပေါ့ပါးမြန်ဆန်ပြီး၊ energy သုံးနည်းကာ ကွန်ပျူတာအဟောင်းရော၊ "
-"အသစ်မှာကော အလုပ်ကောင်းကောင်းလုပ်နိုင်ပါတယ်။"
+"Lubuntu ကို <em>LXDE Desktop Environment</em> ကိုအခြေခံပြုလုပ်ထားပါတယ်။ LXDE Desktop "
+"ဟာ ပေါ့ပါးမြန်ဆန်ပြီး၊ energy သုံးနည်းကာ ကွန်ပျူတာအဟောင်းရော၊ အသစ်မှာကော "
+"အလုပ်ကောင်းကောင်းလုပ်နိုင်ပါတယ်။"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/02_browser.html:1
@@ -83,8 +82,8 @@ msgstr "အခြားသုံးနိုင်သောဆော့ဝဲမ
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:23
-msgid "Flash"
-msgstr "Flash"
+msgid "Qupzilla"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/02_browser.html:28
@@ -104,9 +103,8 @@ msgid ""
 "support for industry standard document types and will allow you to "
 "collaborate on documents written by colleagues, friends or family."
 msgstr ""
-"<em>Abiword</em> နှင့် <em>Gnumeric</em> တို့က LibreOffice "
-"အစားထိုးသုံးနိုင်တဲ့ ပေါ့ပါးတဲ့ စာစီစာရိုက်ဆော့ဝဲများဖြစ်ပါတယ်။ "
-"ရုံးသုံးစာရွက်စာတမ်းများ၊ စာရင်းဇယားများကို ဖန်တီးနိုင်မှာ ဖြစ်ပါတယ်။"
+"<em>Abiword</em> နှင့် <em>Gnumeric</em> တို့က LibreOffice အစားထိုးသုံးနိုင်တဲ့ ပေါ့ပါးတဲ့ "
+"စာစီစာရိုက်ဆော့ဝဲများဖြစ်ပါတယ်။ ရုံးသုံးစာရွက်စာတမ်းများ၊ စာရင်းဇယားများကို ဖန်တီးနိုင်မှာ ဖြစ်ပါတယ်။"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/03_office.html:16
@@ -132,12 +130,9 @@ msgstr "သီချင်း၊ ဗီဒီယိုနှင့် အပန�
 #: slideshows/lubuntu/slides/04_media.html:10
 msgid ""
 "Listen to your favorite music with <em>Audacious</em>, a simple but powerful "
-"audio player. And enjoy all your videos with <em>Gnome-Mplayer</em>, a fast "
-"video player powered by mplayer with support for many formats."
+"audio player. And enjoy all your videos with <em>Gnome MPV</em>, the next "
+"generation video player, with support for many formats."
 msgstr ""
-"<em>Audacious</em> ဆော့ဝဲကို သုံးပြီး သီချင်းများ နားဆင်နိုင်ပါတယ်။ "
-"ရုပ်ရှင်၊ ဗီဒီယိုများ ကြည့်ရှုရန် <em>Gnome-Mplayer</em> ကိုသုံးပြီး ဗီဒီယို "
-"formats အများအပြားကို နားဆင်၊ ကြည့်ရှုနိုင်ပါတယ်။"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/lubuntu/slides/04_media.html:14
@@ -145,8 +140,8 @@ msgid ""
 "You can also obtain additional codec support by installing the <em>lubuntu-"
 "restricted-extras</em> package."
 msgstr ""
-"အခြား ဗီဒီယို codec အမျိုးမျိုးကိုလဲ <em>lubuntu-restricted-extras</em> "
-"package ထပ်မံထည့်သွင်းပြီး ကြည့်ရှုနိုင်ပါတယ်။"
+"အခြား ဗီဒီယို codec အမျိုးမျိုးကိုလဲ <em>lubuntu-restricted-extras</em> package "
+"ထပ်မံထည့်သွင်းပြီး ကြည့်ရှုနိုင်ပါတယ်။"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:23
@@ -155,8 +150,8 @@ msgstr "Audacious"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:28
-msgid "Gnome-Mplayer"
-msgstr "Gnome-Mplayer"
+msgid "Gnome MPV"
+msgstr ""
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/lubuntu/slides/04_media.html:36
@@ -192,23 +187,19 @@ msgid "Empathy"
 msgstr "Empathy"
 
 #. type: Content of: <div><h1>
-#: slideshows/lubuntu/slides/06_lsc.html:1
+#: slideshows/lubuntu/slides/06_software.html:1
 msgid "Download software with ease"
 msgstr "ဆော့ဝဲများအလွယ်တကူထည့်သွင်းနိုင်ခြင်း"
 
 #. type: Content of: <div><div><div><p>
-#: slideshows/lubuntu/slides/06_lsc.html:8
+#: slideshows/lubuntu/slides/06_software.html:8
 msgid ""
 "With Lubuntu, you have access to the whole Ubuntu repository and all the "
 "software included. This means that thousands of new applications are ready "
-"for your computer, free of charge. Use the <em>Lubuntu Software Center</em> "
+"for your computer, free of charge. Use the revamped <em>Software</em> app "
 "and explore categories such as games, science and education, or search for "
 "your favorite software."
 msgstr ""
-"Lubuntu မှာ Ubuntu repository တခုလုံးမှာရှိတဲ့ဆော့ဝဲများ အသုံးပြုနိုင်ပါတယ်။ "
-"ဆော့ဝဲပေါင်း ထောင်ပေါင်းများစွာကို အခမဲ့ အလွယ်တကူ သုံးနိုင်ပါတယ်။ "
-"<em>Lubuntu Software Center</em> ကို သုံးပြီး games များ၊ သိပ္ပံ၊ "
-"နည်းပညာပိုင်းဆိုင်ရာနှင့် အခြားဆော့ဝဲများ အလွယ်တကူ ရှာဖွေနိုင်ပါတယ်။"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/07_help.html:1
@@ -221,14 +212,9 @@ msgid ""
 "One of the biggest advantages with Lubuntu is the wonderful community that "
 "comes with it. Other users will gladly help you out if you encounter "
 "problems. There are many different ways to get help, the easiest way is to "
-"visit our <a href=\"http://lubuntu.net/\">website</a>, as we've gathered all "
+"visit our <a href=\"http://lubuntu.me/\">website</a>, as we've gathered all "
 "the information you need."
 msgstr ""
-"Lubuntu ကို အသုံးပြုသူတွေကို ကူညီပေးမဲ့ အဖွဲ့အစည်းကြီးရှိပါတယ်။ "
-"ကြုံတွေ့ရတဲ့အခက်အခဲတွေကို ဖြေရှင်း၊ကူညီပေးဖို့ အသင့်ရှိပါတယ်။ "
-"အကူအညီလိုအပ်ခဲ့ပါက <a href=\"http://lubuntu.net/\">website</a> ကို "
-"လာကြည့်လိုက်ပါ။ သင့်အခက်အခဲကို ဖြေရှင်းပေးနိုင်မဲ့ အချက်အလက်များ "
-"စုစည်းထားပေးပါတယ်။"
 
 #. type: Content of: <div><h1>
 #: slideshows/lubuntu/slides/08_thanks.html:1
@@ -241,9 +227,5 @@ msgid ""
 "The installation will finish soon. We hope you will enjoy Lubuntu and all "
 "the freedom that comes with it.  If you wish to help us improve Lubuntu, "
 "either by giving us feedback or by getting involved in the project, please "
-"visit our <a href=\"http://lubuntu.net/\">website</a>."
+"visit our <a href=\"http://lubuntu.me/\">website</a>."
 msgstr ""
-"Lubuntu ထည့်သွင်းတာ မကြာမီ ပြီးစီးတော့ပါမယ်။ Lubuntu ကို နှစ်သက်မယ်လို့ "
-"မျှော်လင့်ပါတယ်။ Lubuntu ကို ပိုမိုကောင်းမွန်အောင် အကူအညီပေးလိုတာပဲဖြစ်ဖြစ်၊ "
-"အကြံဉာဏ်ပေးချင်တာပဲဖြစ်ဖြစ် <a href=\"http://lubuntu.net/\">website</a> ကို "
-"လာရောက်ဖို့ ဖိတ်ခေါ်ပါတယ်။"

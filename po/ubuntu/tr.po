@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-05-18 11:34+0000\n"
-"Last-Translator: Hasan Yılmaz <iletisim@hasanyilmaz.net>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
+"PO-Revision-Date: 2018-08-24 21:10+0000\n"
+"Last-Translator: E Karaca <Unknown>\n"
 "Language-Team: Turkish <tr@li.org>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: tr\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -59,7 +59,7 @@ msgstr "Dil desteği"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
 msgid "Make the most of the web"
-msgstr "Ağın keyfini çıkartın"
+msgstr "Web'den en iyi şekilde faydalanın"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/browse.html:8
@@ -80,26 +80,21 @@ msgstr ""
 #: slideshows/ubuntu/slides/office.html:12
 #: slideshows/ubuntu/slides/photos.html:12
 msgid "Included software"
-msgstr "Kurulu gelecek yazılımlar"
+msgstr "Dahil Olan Yazılım"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:16
 msgid "Firefox web browser"
-msgstr "Firefox Web Tarayıcısı"
+msgstr "Firefox web tarayıcısı"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:19
 #: slideshows/ubuntu/slides/photos.html:19
 msgid "Supported software"
-msgstr "Desteklenen yazılımlar"
+msgstr "Desteklenen yazılım"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -111,23 +106,23 @@ msgstr "Yardım ve destek"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"The <span class=\"app\" data-app=\"docs\">official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
-"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System menu."
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"<span class=\"app\" data-app=\"docs\">Resmi belgeleme </span> Ubuntu'nun en "
-"sık kullanılan alanlarının bazılarını içinde bulundurur. Hem <a "
-"href=\"https://help.ubuntu.com\">ağda</a> hem de Sistem menüsündeki Ubuntu "
-"Yardımı seçeneğinden ulaşılabilir."
+"<span class=\"app\" data-app=\"docs\">Resmi dökümantasyon</span> Ubuntu "
+"hakkındaki en yaygın alanların birçoğunu kapsamaktadır.  Ona hem <a href="
+"\"https://help.ubuntu.com\">çevrimiçi</a> olarak, hem de rıhtımdaki Yardım "
+"simgesi ile ulaşılabilir."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a "
-"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
 msgstr ""
 "<a href=\"http://askubuntu.com\">Ask Ubuntu</a>'da soru sorabilir ve "
 "yanıtlanmış etkileyici sorularda araştırma yapabilirsiniz. Kendi dilinizdeki "
@@ -137,15 +132,13 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a "
-"href=\"http://community.ubuntu.com/help-"
-"information/\">community.ubuntu.com/help-information</a> or <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
-"Diğer faydalı kaynaklar için ziyaret edebileceğiniz kaynaklar; <a "
-"href=\"http://community.ubuntu.com/help-"
-"information/\">community.ubuntu.com/help-information</a> ya da <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Diğer yararlı kaynaklar için <a href=\"https://www.ubuntu.com/support/"
+"community-support\">Topluluk desteğini </a> veya <a href=\"http://www.ubuntu."
+"com/support\">Şirket desteğini</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -169,12 +162,27 @@ msgstr ""
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
-msgstr "Rhythmbox Müzik Çalar"
+msgstr "Rhythmbox Müzik Oynatıcısı"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/music.html:18
+msgid "Available software"
+msgstr "Mevcut yazılım"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:22
+msgid "Spotify"
+msgstr "Spotify"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:26
+msgid "VLC"
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
 msgid "Everything you need for the office"
-msgstr "Aradığınız şey, ofis uygulamaları mı?"
+msgstr "Ofis için ihtiyacınız olan her şey"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
@@ -183,15 +191,15 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice; belge, elektronik tablo ve sunum oluşturabilmeniz  için gerekli "
-" her şeyi sunan ücretsiz bir ofis yazılımıdır. Microsoft Office dosya "
-"biçimleriyle de uyumlu olan LibreOffice, ihtiyacınız olan her şeyi ücret "
-"talep etmeden size sunar."
+"LibreOffice; belge, elektronik tablo ve sunum oluşturabilmeniz  için "
+"gerekli  her şeyi sunan ücretsiz bir ofis yazılımıdır. Microsoft Office "
+"dosya biçimleriyle de uyumlu olan LibreOffice, ihtiyacınız olan her şeyi "
+"ücret talep etmeden size sunar."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
 msgid "LibreOffice Writer"
-msgstr "LibreOffice Kelime İşlemcisi"
+msgstr "LibreOffice Writer"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:20
@@ -201,7 +209,7 @@ msgstr "LibreOffice Calc"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:24
 msgid "LibreOffice Impress"
-msgstr "LibreOffice Sunu"
+msgstr "LibreOffice Impress"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
@@ -230,30 +238,33 @@ msgstr "Shotwell Fotoğraf Yöneticisi"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
-msgstr "GIMP Görüntü Düzenleyici"
+msgstr "GIMP Görüntü Düzenleyicisi"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
 msgid "Pitivi Video Editor"
-msgstr "Pitivi Video Düzenleyici"
+msgstr "Pitivi Video Düzenleyicisi"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
 msgid "Find even more software"
-msgstr "Daha fazla yazılım edinin"
+msgstr "Daha da fazla yazılım bulun"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With access to the Ubuntu "
-"Software Store, you can find and install new apps with ease. Just type in "
-"what you’re looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Ağ'da yeni yazılım için arama yapmaya güle güle deyin. Ubuntu Yazılım "
-"Merkezi'ne erişerek yeni uygulamaları kolaylıkla bulup yükleyebilirsiniz. "
-"Sadece aradığınız şeyi yazın, ya da kullanıcıların yardım dolu yorumlarıyla "
-"birlikte Bilim, Eğitim ve Oyun gibi kategorilerden birine tıklayın."
+"Yeni yazılım için genel ağda araştırma yapmaya hoşçakal diyebilirsiniz. Snap "
+"mağazası ve Ubuntu yazılım arşivine ulaşımınız sayesinde yeni yazılımları "
+"kolaylıkla bulup kurabilirsiniz. Neyi arıyorsanız onu yazmanız yeterlidir. "
+"Ayrıca Grafikler & Fotoğrafçılık, Oyunlar ve Üretkenlik gibi kategorilerden "
+"istediğiniz yazılımları sıralayabilirsiniz. İsterseniz diğer kullanıcıların "
+"yazılımlar hakkındaki görüş ve yardımsever önerilerini de okuyabilirsiniz."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1

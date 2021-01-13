@@ -6,17 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-03-24 10:32+0000\n"
-"Last-Translator: Martin Šácha <lp@s0c4.net>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
+"PO-Revision-Date: 2019-05-12 18:40+0000\n"
+"Last-Translator: Pavel Borecki <Unknown>\n"
 "Language-Team: Czech <cs@li.org>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
-"Language: cs\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -31,10 +31,10 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
-"Základem filosofie Ubuntu je přesvědčení, že práce s počítačem je pro "
-"každého. S rozšířenými nástroji a možností změny jazyka, barevných schémat a "
-"velikosti textu, Ubuntu dělá práci s počítačem jednoduchou - ať jste "
-"kdokoliv a kdekoliv."
+"Hlavní myšlenkou Ubuntu je přesvědčení, že počítač  by měl moci používat "
+"každý. Proto nabízí pokročilé nástroje pro zpřístupnění, širokou podporu "
+"jazyků, barevných schémat a velikostí písma, které vám práci s počítačem "
+"usnadní – ať už jste kdokoli a kdekoli."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
@@ -49,12 +49,12 @@ msgstr "Vzhled"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:20
 msgid "Assistive technologies"
-msgstr "Technologie usnadnění"
+msgstr "Technologie pro usnadnění používání hendikepovaným"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/accessibility.html:24
 msgid "Language support"
-msgstr "Jazyková podpora"
+msgstr "Podpora jazyků"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/browse.html:1
@@ -69,10 +69,11 @@ msgid ""
 "for example) can be pinned to your desktop for faster access, just like apps "
 "on your computer."
 msgstr ""
-"Ubuntu obsahuje Firefox, webový prohlížeč s miliony uživatelů na celém "
-"světě. Webové aplikace, které používáte nejčastěji (jako například Facebook "
-"nebo Gmail), si navíc můžete přidat do pracovního prostředí a používat je "
-"tak rychle a snadno jako jakoukoli běžnou aplikaci."
+"V Ubuntu je předinstalován i Firefox – webový prohlížeč, který na celém "
+"světě používají miliony lidí. Navíc přístup k mnoha vašim oblíbeným webovým "
+"aplikacím (jako např. Facebook či Gmail) teď bude snazší, díky možnosti "
+"připnout je do pracovního prostředí a používat je tak rychle a snadno, jako "
+"jakoukoli běžnou aplikaci."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/browse.html:12
@@ -95,11 +96,6 @@ msgstr "Podporovaný software"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -111,39 +107,37 @@ msgstr "Nápověda a podpora"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"The <span class=\"app\" data-app=\"docs\">official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
-"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System menu."
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"<span class=\"app\" data-app=\"docs\">Oficiální dokumentace</span> obsahuje "
-"mnoho běžných situací, na které můžete s Ubuntu narazit. Je dostupná jak <a "
-"href=\"https://help.ubuntu.com\">online</a>, tak v aplikaci Nápověda v "
-"systémovém menu."
+"<span class=\"app\" data-app=\"docs\">Oficiální dokumentace</span> pokrývá "
+"mnoho nejběžnějších témat o Ubuntu. Je dostupná jak <a href=\"https://help."
+"ubuntu.com\">online</a>, tak přes ikonu Nápověda na Doku."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a "
-"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
 msgstr ""
-"Na <a href=\"http://askubuntu.com\">Ask Ubuntu</a> můžete položit dotaz či "
-"najít podobné téma. Podporu v češtině zajišťuje <a "
+"Na <a href=\"http://askubuntu.com\">Ask Ubuntu</a> můžete pokládat dotazy a "
+"hledat v široké paletě těch už zodpovězených. Podporu v češtině zajišťuje <a "
 "href=\"http://ubuntu.cz\">Ubuntu.cz</a>."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a "
-"href=\"http://community.ubuntu.com/help-"
-"information/\">community.ubuntu.com/help-information</a> or <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
-"Další užitečné zdroje najdete na <a href=\"http://community.ubuntu.com/help-"
-"information/\">community.ubuntu.com/help-information</a> nebo <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Pro odkazy na další užitečné zdroje navštivte <a href=\"https://www.ubuntu."
+"com/support/community-support\">Komunitní podporu</a> nebo <a href=\"http://"
+"www.ubuntu.com/support\">Komerční podporu</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -158,20 +152,35 @@ msgid ""
 "CDs and portable music players, so you can enjoy all your music wherever you "
 "go."
 msgstr ""
-"Ubuntu přichází s úžasným hudebním přehrávačem Rhythmbox. S pokročilými "
-"funkcemi přehrávání je seřazení oblíbených písní jednoduché. A skvěle "
-"pracuje s CD a přenosnými hudebními přehrávači, takže můžete poslouchat "
-"hudbu, ať jste kdekoli."
+"V Ubuntu je předinstalovaný i úžasný hudební přehrávač Rhythmbox. Díky jeho "
+"pokročilým funkcím je snadné sestavit si perfektní seznam těch nejlepších "
+"skladeb. Samozřejmě zvládá i CD a skvěle spolupracuje s přenosnými "
+"přehrávači, takže si svoji hudbu můžete naplno užívat, ať jste kdekoli."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Přehrávač hudby Rhythmbox"
 
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/music.html:18
+msgid "Available software"
+msgstr "Dostupný software"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:22
+msgid "Spotify"
+msgstr "Spotify"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:26
+msgid "VLC"
+msgstr "VLC"
+
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
 msgid "Everything you need for the office"
-msgstr "Vše, co je v kanceláři potřeba"
+msgstr "Vše, co je potřeba pro kancelář"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/office.html:8
@@ -180,9 +189,10 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice je zdarma dostupný kancelářský balík se vším, co potřebujete k "
-"vytváření dokumentů, tabulek a prezentací. Je kompatibilní s formátem "
-"Microsoft Office a dává vám všechny potřebné funkce - to vše zcela zdarma."
+"LibreOffice je sada svobodných (libre) kancelářských aplikací, vybavená vším "
+"co je třeba pro vytváření dokumentů, tabulek a prezentací. Je kompatibilní s "
+"formáty Microsoft Office, poskytuje veškeré funkce, které jsou potřeba a "
+"přitom je zcela zdarma."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -202,7 +212,7 @@ msgstr "LibreOffice Impress"
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/photos.html:1
 msgid "Have fun with your photos"
-msgstr "Užijte si zábavu se svými fotografiemi"
+msgstr "Bavte se se svými fotkami"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/photos.html:8
@@ -212,10 +222,11 @@ msgid ""
 "keep them safe. If you’re feeling creative, you can try lots of photo apps "
 "from the Ubuntu Software Center."
 msgstr ""
-"Shotwell je šikovný správce fotografií připravený pro vaše snímky. Připojte "
-"fotoaparát nebo mobil pro přenos svých fotografií, abyste je poté mohli "
-"snadno sdílet a uchovat v bezpečí. Pokud jste tvořiví, můžete vyzkoušet "
-"mnoho aplikací pro zpracování fotografií z Centra softwaru pro Ubuntu."
+"Shotwell je šikovný nástroj pro správu fotografií, připravený i na vaše "
+"fotopřístroje. Stačí připojit foťák nebo mobil a fotky se začnou "
+"překopírovávat – jejich  následné sdílení anebo archivace jsou už pak velice "
+"snadné. Pokud budete chtít dát průchod své tvořivosti, v Centru softwaru pro "
+"Ubuntu naleznete mnoho dalších aplikací pro úpravu fotek."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:16
@@ -225,12 +236,12 @@ msgstr "Správce fotografií Shotwell"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:23
 msgid "GIMP Image Editor"
-msgstr "Editor obrázků GIMP"
+msgstr "Grafický editor Gimp"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/photos.html:27
 msgid "Pitivi Video Editor"
-msgstr "Editor videa Pitivi"
+msgstr "Videoeditor Pitivi"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/usc.html:1
@@ -240,14 +251,17 @@ msgstr "Najděte ještě více softwaru"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With access to the Ubuntu "
-"Software Store, you can find and install new apps with ease. Just type in "
-"what you’re looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Rozlučte se s hledáním vhodných programů na Internetu. Ve Správci softwaru "
-"můžete jednoduše najít a nainstalovat jakoukoli aplikaci. Můžete si "
-"procházet kategorie jako jsou Věda, Vzdělávání, Hry... a číst komentáře "
+"Už nemusíte ztrácet čas při zjišťování toho, jaký další software je k "
+"dispozici, zdlouhavým pátráním na webu. Pomocí repozitáře se Snap balíčky a "
+"archivem softwaru v Ubuntu nyní můžete nalézat nové aplikace jednoduše. "
+"Stačí jen zadat, co hledáte, nebo prozkoumat kategorie – například Grafika a "
+"fotografie, Hry a Kancelář. To vše doprovázeno užitečnými recenzemi "
 "ostatních uživatelů."
 
 #. type: Content of: <div><h1>
@@ -262,5 +276,5 @@ msgid ""
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
 "Nejnovější vydání Ubuntu přináší nové vlastnosti a funkce, díky kterým pro "
-"vás bude používání počítače jednodušší, než kdy dřív. Zde je pár zajímavých "
-"novinek, které byste si neměli nechat ujít..."
+"vás bude používání počítače jednodušší, než kdy dřív. Představujeme některé "
+"ze zajímavých novinek, které byste si neměli nechat ujít…"

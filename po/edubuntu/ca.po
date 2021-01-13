@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
 "PO-Revision-Date: 2016-04-14 13:51+0000\n"
 "Last-Translator: Walter Garcia-Fontes <walter.garcia@upf.edu>\n"
 "Language-Team: Catalan <ca@li.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -100,11 +101,11 @@ msgstr "Calculeu-ho tot"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr ""
-"Edubuntu incorpora la darrera versió de la potent <em>Calculadora de "
-"Gnome</em>."
+"Edubuntu incorpora la darrera versió de la potent <em>Calculadora de Gnome</"
+"em>."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:7
@@ -121,21 +122,21 @@ msgid ""
 "Use the programming function for logical computations and advanced mode for "
 "scientific computations."
 msgstr ""
-"Empreu la funció programable per operacions lògiques i el mode avançat per "
-"les operacions científiques."
+"Utilitzeu la funció de programació per als càlculs lògics i el mode avançat "
+"per a les operacions científiques."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/calibre.html:1
 msgid "Manage your e-Book Library"
-msgstr "Gestioneu la vostra biblioteca d'e-Book"
+msgstr "Gestioneu la vostra biblioteca de llibres electrònics"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:6
 msgid ""
 "<em>Calibre</em> is an e-library solution for cataloging electronic books."
 msgstr ""
-"<em>Calibre</em> és una solució de biblioteca electrònica per catalogar "
-"llibres electrònics."
+"<em>Calibre</em> és una solució de biblioteca electrònica per a la "
+"catalogació de llibres electrònics."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:7
@@ -143,7 +144,7 @@ msgid ""
 "It supports many formats, including MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, "
 "RTF, PDF and more."
 msgstr ""
-"Permet molts formats, incloent MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, RTF, "
+"Admet molts formats, incloent-hi MOBI, LIT, PRC, EPUB, ODT, HTML, CBR, RTF, "
 "PDF i més."
 
 #. type: Content of: <div><div><ul><li>
@@ -152,14 +153,15 @@ msgid ""
 "Supports for many different hardware platforms, including the most popular "
 "commercial e-book platforms available."
 msgstr ""
-"Dóna suport a moltes plataformes diferents de maquinari, incloent les "
+"Dóna suport a moltes plataformes diferents de maquinari, incloent-hi les "
 "plataformes comercials més populars de llibres electrònics disponibles."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
 msgid "Automatically sync feeds and news to your favorite device."
 msgstr ""
-"Sincronitzeu automàticament canals i notícies al vostre dispositiu favorit."
+"Sincronitzeu automàticament els canals i notícies al vostre dispositiu "
+"preferit."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
@@ -196,7 +198,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/desktop-software.html:9
 msgid "<em>Gimp</em> is a powerful and scriptable image and photo editor."
-msgstr "<em>Gimp</em> és un potent editor d'imatges i de fotos."
+msgstr "<em>Gimp</em> és un editor potent d'imatges i fotos."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/documentation.html:1
@@ -225,8 +227,8 @@ msgstr ""
 "A més de l'extensa ajuda per l'escriptura, la comunitat d'Edubuntu "
 "proporciona suport tècnic gratuït a través d'Internet. També hi ha suport "
 "comercial disponible mitjançant Canonical, els seus socis i empreses "
-"autoritzades. Més informació a <a "
-"href=\"http://www.edubuntu.org/documentation\">"
+"autoritzades. Més informació a <a href=\"http://www.edubuntu.org/"
+"documentation\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
@@ -237,11 +239,11 @@ msgstr "edubuntu.org</a>"
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
-"Expliqueu-nos la vostra experiència amb l'Edubuntu a <a "
-"href=\"http://edubuntu.com/community\">"
+"Expliqueu-nos la vostra experiència amb l'Edubuntu a <a href=\"http://"
+"edubuntu.com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -267,7 +269,7 @@ msgstr ""
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:1
 msgid "Menu Administration"
-msgstr "Administració de menú"
+msgstr "Administració del menú"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:6
@@ -282,7 +284,8 @@ msgstr ""
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
 msgid "Menus are created and applied using an easy to use menu editor."
 msgstr ""
-"Els menús es creen i s'apliquen emprant un editor de menús fàcil d'utilitzar."
+"Els menús es creen i s'apliquen mitjançant un editor de menús fàcil "
+"d'utilitzar."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:8
@@ -330,16 +333,14 @@ msgstr "Controleu la vostra aula"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid ""
-"<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
 "<em>Epoptes</em> permet a la docència prendre control dels escriptoris dels "
 "ordinadors dels estudiants."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Feu difusió de la vostra sessió a tots els usuaris per a explicar un nou "
 "concepte."
@@ -376,8 +377,8 @@ msgid ""
 "Choose from a variety of fonts to get you kickstarted with desktop "
 "publishing tasks."
 msgstr ""
-"Escolliu d'una varietat de tipus de lletra per iniciar-vos ràpidament en les "
-" tasques de publicació a l'escriptori."
+"Escolliu d'una varietat de tipus de lletra per iniciar-vos ràpidament en "
+"les  tasques de publicació a l'escriptori."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/fonts.html:8
@@ -407,8 +408,7 @@ msgstr "Resumiu volums molt grans de dades de forma eficient."
 #: slideshows/edubuntu/slides/freemind.html:8
 #: slideshows/edubuntu/slides/vym.html:8
 msgid "Make subsections stand out with cloud bubbles and custom colours."
-msgstr ""
-"Destaqueu subseccions amb bombolles de núvols i colors personalitzats."
+msgstr "Destaqueu subseccions amb bombolles de núvols i colors personalitzats."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/freemind.html:9
@@ -467,9 +467,9 @@ msgid ""
 "Need more software? Try the <em>Ubuntu Software Center</em> to choose from "
 "thousands of extras you can download for free."
 msgstr ""
-"Necessiteu més programari? Proveu el <em>Centre de Programari de "
-"l'Ubuntu</em> per triar entre milers d'aplicacions extres que podeu "
-"descarregar-vos gratuïtament."
+"Necessiteu més programari? Proveu el <em>Centre de Programari de l'Ubuntu</"
+"em> per triar entre milers d'aplicacions extres que podeu descarregar-vos "
+"gratuïtament."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/installing-software.html:7
@@ -566,8 +566,7 @@ msgstr "Configuració senzilla sense disc"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:6
 msgid "Edubuntu ships with <em>LTSP</em>, the Linux Terminal Server Project."
-msgstr ""
-"L'Edubuntu incorpora <em>LTSP</em>, el Linux Terminal Server Project."
+msgstr "L'Edubuntu incorpora <em>LTSP</em>, el Linux Terminal Server Project."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/ltsp.html:7
@@ -701,8 +700,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 "Apreneu habilitats bàsiques amb l'ordinador i allibereu la vostra "
 "creativitat em el <em>TuxPaint</em>"
@@ -771,7 +770,7 @@ msgstr "Benvinguts"
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
+"Thank you for installing Edubuntu 17.10.  The Edubuntu project is a "
 "community project that aims to provide a whole-school technological platform "
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."
@@ -790,17 +789,5 @@ msgstr ""
 #: slideshows/edubuntu/slides/welcome.html:15
 msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
 msgstr ""
-"<b>Gaudiu usant l'Edubuntu i us donem la benvinguda a la família "
-"Edubuntu!</b>"
-
-#~ msgid ""
-#~ "Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
-#~ "community project that aims to provide a whole-school technological platform "
-#~ "suitable for delivering education. We are coders, educators, parents and "
-#~ "technologists who aim to make technology easier for all."
-#~ msgstr ""
-#~ "Gràcies per instal·lar l'Edubuntu 17.04. El projecte Edubuntu és un projecte "
-#~ "comunitari que té l'objectiu de proveir una plataforma tecnològica completa "
-#~ "per a l'escola per generar educació. Som desenvolupadors, educadors, pares i "
-#~ "mares i tecnòlegs que tenim l'objectiu de fer la tecnologia més fàcil per a "
-#~ "tothom."
+"<b>Gaudiu usant l'Edubuntu i us donem la benvinguda a la família Edubuntu!</"
+"b>"

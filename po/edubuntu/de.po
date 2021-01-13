@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2017-01-30 18:35+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
+"PO-Revision-Date: 2017-04-03 18:36+0000\n"
 "Last-Translator: schuko24 <gerdsaenger@t-online.de>\n"
 "Language-Team: German <de@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -101,8 +102,8 @@ msgstr "Alles berechnen"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr ""
 "Edubuntu wird mit der neuesten Version des leistungsfähigen <em>Gnome-"
 "Taschenrechners</em> ausgeliefert."
@@ -230,8 +231,8 @@ msgstr ""
 "Zusätzlich zu unserer umfangreichen niedergeschriebenen Hilfe bietet die "
 "Edubuntu-Gemeinschaft kostenlose technische Unterstützung über das Internet "
 "an. Es gibt auch kommerzielle Unterstützung von Canonical, seinen Partnern "
-"und dazugehörigen Firmen. Erfahren Sie mehr unter <a "
-"href=\"http://www.edubuntu.org/documentation\">"
+"und dazugehörigen Firmen. Erfahren Sie mehr unter <a href=\"http://www."
+"edubuntu.org/documentation\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:7
@@ -242,11 +243,11 @@ msgstr "edubuntu.org</a>"
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
-"Lassen Sie uns an Ihrer Erfahrung mit Edubuntu teilhaben unter <a "
-"href=\"http://edubuntu.com/community\">"
+"Lassen Sie uns an Ihrer Erfahrung mit Edubuntu teilhaben unter <a href="
+"\"http://edubuntu.com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -340,16 +341,14 @@ msgstr "Steuern Sie Ihren Klassenraum"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid ""
-"<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr ""
 "<em>Epoptes</em> ermöglicht einem Dozenten die Rechner der Schüler/Studenten "
 "zu steuern."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Übertragen Sie eine Arbeitsplatz-Sitzung an alle Benutzer, um ein neues "
 "Konzept zu demonstrieren."
@@ -707,8 +706,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 "Lernen Sie grundlegende Rechner-Fertigkeiten und entfesseln Sie Ihre "
 "Kreativität mit <em>TuxPaint</em>."
@@ -775,11 +774,16 @@ msgstr "Willkommen"
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
+"Thank you for installing Edubuntu 17.10.  The Edubuntu project is a "
 "community project that aims to provide a whole-school technological platform "
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."
 msgstr ""
+"Danke für die Installation von Edubuntu 17.10. Das Edubuntu-Projekt ist ein "
+"Gemeinschaftsprojekt das das Ziel verfolgt, eine komplette schultaugliche "
+"Plattform anzubieten, um Lerninhalte zu vermitteln. Wir sind Entwickler, "
+"Eltern und Technologen die das Ziel haben, Technologie für alle einfacher zu "
+"machen."
 
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:10
@@ -795,15 +799,3 @@ msgstr ""
 #: slideshows/edubuntu/slides/welcome.html:15
 msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
 msgstr "<b>Genießen Sie Edubuntu und willkommen in der Edubuntu-Familie!</b>"
-
-#~ msgid ""
-#~ "Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
-#~ "community project that aims to provide a whole-school technological platform "
-#~ "suitable for delivering education. We are coders, educators, parents and "
-#~ "technologists who aim to make technology easier for all."
-#~ msgstr ""
-#~ "Vielen Dank, dass Sie sich für Edubuntu 17.04 entschieden haben! Das "
-#~ "Edubuntu-Projekt möchte eine umfassende technische Lern-Plattform zu "
-#~ "Bildungszwecken bieten. Wir sind Programmierer, Erzieher, Eltern und "
-#~ "Techniker, die sich dafür einsetzen, Technologie für alle einfacher zu "
-#~ "gestalten."

@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
 "PO-Revision-Date: 2014-06-08 14:39+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Sanskrit <sa@li.org>\n"
+"Language: sa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/accessibility.html:1
@@ -30,9 +31,9 @@ msgid ""
 "colour scheme and text size, Ubuntu makes computing easy – whoever and "
 "wherever you are."
 msgstr ""
-"सङ्गणनं सर्वेभ्यः इति Ubuntuदर्शनस्य बीजमन्त्रम्। भाषा-वर्णयोजना-"
-"पाठ्यपरिमाणान् परिवर्तयितुं विद्यमानैः प्रगतैर्गम्यतासाधनैर्विकल्पैश्च "
-"Ubuntuद्वारा सङ्गणनं सुलभीक्रियते कस्मैचिदपि कुत्रचिदपि स्थिताय च।"
+"सङ्गणनं सर्वेभ्यः इति Ubuntuदर्शनस्य बीजमन्त्रम्। भाषा-वर्णयोजना-पाठ्यपरिमाणान् परिवर्तयितुं "
+"विद्यमानैः प्रगतैर्गम्यतासाधनैर्विकल्पैश्च Ubuntuद्वारा सङ्गणनं सुलभीक्रियते कस्मैचिदपि "
+"कुत्रचिदपि स्थिताय च।"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntu/slides/accessibility.html:12
@@ -89,11 +90,6 @@ msgstr "समर्थितास्तन्त्रांशाः"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Chromium"
 
@@ -105,10 +101,10 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"The <span class=\"app\" data-app=\"docs\">official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
-"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System menu."
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
@@ -116,17 +112,16 @@ msgstr ""
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a "
-"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
 msgstr ""
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a "
-"href=\"http://community.ubuntu.com/help-"
-"information/\">community.ubuntu.com/help-information</a> or <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -148,6 +143,21 @@ msgstr ""
 msgid "Rhythmbox Music Player"
 msgstr "Rythmbox सङ्गीतचालकम्"
 
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/music.html:18
+msgid "Available software"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:22
+msgid "Spotify"
+msgstr ""
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:26
+msgid "VLC"
+msgstr ""
+
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
 msgid "Everything you need for the office"
@@ -160,9 +170,8 @@ msgid ""
 "documents, spreadsheets and presentations. Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
-"LibreOffice  इत्येष एको मुक्तो नियोगसम्पुटो लेख-विस्तीर्णपत्र-प्रस्तुतयः "
-"कर्त्तुं सर्वसाधनैः संयुक्तः। Microsoft Office सञ्चिकाप्रारूपसङ्गतोऽयं "
-"निःशुल्कोऽपि सर्वसुविधासंपूर्णः।"
+"LibreOffice  इत्येष एको मुक्तो नियोगसम्पुटो लेख-विस्तीर्णपत्र-प्रस्तुतयः कर्त्तुं सर्वसाधनैः "
+"संयुक्तः। Microsoft Office सञ्चिकाप्रारूपसङ्गतोऽयं निःशुल्कोऽपि सर्वसुविधासंपूर्णः।"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/office.html:16
@@ -216,10 +225,11 @@ msgstr "अन्येऽपि तन्त्रांशा उपलभ्�
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With access to the Ubuntu "
-"Software Store, you can find and install new apps with ease. Just type in "
-"what you’re looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -233,5 +243,5 @@ msgid ""
 "Fast and full of new features, the latest version of Ubuntu makes computing "
 "easier than ever. Here are just a few cool new things to look out for…"
 msgstr ""
-"द्रुतं नवलक्षणपरिपूर्णं च Ubuntu इत्यस्य नवीनतमं संस्करणं सङ्गणनं "
-"पूर्वतोऽतिसुलभं करोति। सम्प्रतीक्षितुमिह कानिचिन्नवानि वस्तूनि..."
+"द्रुतं नवलक्षणपरिपूर्णं च Ubuntu इत्यस्य नवीनतमं संस्करणं सङ्गणनं पूर्वतोऽतिसुलभं करोति। "
+"सम्प्रतीक्षितुमिह कानिचिन्नवानि वस्तूनि..."

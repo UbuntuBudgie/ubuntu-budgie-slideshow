@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"POT-Creation-Date: 2019-03-13 17:22+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2019-10-10 13:36+0000\n"
+"X-Generator: Launchpad (build af2eefe214bd95389a09b7c956720881bab16807)\n"
 "Language: \n"
 
 #. type: Content of: <div><h1>
@@ -45,29 +45,29 @@ msgstr ""
 msgid "Simple and easy to use"
 msgstr ""
 
-#. type: Content of: <div><div>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:7
-msgid ""
-"<strong>Budgie</strong> is built exclusively for desktop users. No mobile or "
-"tablet here!"
-msgstr ""
-
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:9
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:7
 msgid ""
 "<strong>Budgie Menu</strong> provides quick access to your apps, offering "
 "both category and compact views"
 msgstr ""
 
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:10
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:8
 msgid ""
-"<strong>Raven</strong> side panel lets you access applets,notifications and "
-"customization center all in one place"
+"<strong>Raven</strong> side panel lets you access notifications, play music "
+"and sound control all in one place"
 msgstr ""
 
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:11
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:9
+msgid ""
+"<strong>Budgie Desktop Settings</strong> lets you further customize your "
+"desktop; panels, fonts, themes, icons and autostart apps"
+msgstr ""
+
+#. type: Content of: <div><div><li>
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:10
 msgid ""
 "<strong>Budgie</strong> gets out of your way and provides a clutter free "
 "desktop experience"
@@ -81,10 +81,10 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/03_browse.html:8
 msgid ""
-"With <strong>Chromium</strong> already installed, Ubuntu Budgie has "
+"With <strong>Firefox</strong> already installed, Ubuntu Budgie has "
 "everything you need to browse the web. Easy browsing, high performance, "
 "advanced security, powerful personalization and the cutting edge, all that "
-"is between your hands."
+"is in your hands."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -129,9 +129,9 @@ msgstr ""
 #: slideshows/ubuntu-budgie/slides/06_photos.html:8
 msgid ""
 "Tired of finding the right application to organize your photos? With "
-"<strong>GNOME Photos</strong>, you can quickly and easily import, organize, "
-"edit and view your pictures. And you can share your favorite snaps on all "
-"popular photo sites and social networks."
+"<strong>gThumb</strong>, you can quickly and easily import, organize, edit "
+"and view your pictures. And you can share your favorite snaps on all popular "
+"photo sites and social networks."
 msgstr ""
 
 #. type: Content of: <div><h1>
@@ -166,9 +166,8 @@ msgstr ""
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:9
 msgid ""
-"Get help and support on our Google+ community (Google \"google+ Ubuntu "
-"Budgie\") or on <strong>Launchpad</strong>: <a "
-"href=\"https://launchpad.net/Ubuntu Budgie\">launchpad.net/ubuntubudgie</a>"
+"Get help and support with our Discourse community: <a "
+"href=\"https://discourse.ubuntubudgie.org\">discourse.ubuntubudgie.org</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><li>

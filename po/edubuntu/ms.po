@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
 "PO-Revision-Date: 2016-05-18 09:12+0000\n"
 "Last-Translator: abuyop <Unknown>\n"
 "Language-Team: Malay <ms@li.org>\n"
+"Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:52+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/accessibility.html:1
@@ -101,8 +102,8 @@ msgstr "Kira Segalanya"
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calc.html:6
 msgid ""
-"Edubuntu ships with the latest version of the powerful <em>Gnome "
-"Calculator</em>."
+"Edubuntu ships with the latest version of the powerful <em>Gnome Calculator</"
+"em>."
 msgstr ""
 "Edubuntu dilengkapi dengan versi terkini <em>Gnome Calculator</em> yang "
 "hebat."
@@ -159,8 +160,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/calibre.html:9
 msgid "Automatically sync feeds and news to your favorite device."
-msgstr ""
-"Segerak suapan dan berita secara automatik ke peranti kegemaran anda."
+msgstr "Segerak suapan dan berita secara automatik ke peranti kegemaran anda."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/desktop-software.html:1
@@ -238,11 +238,11 @@ msgstr "edubuntu.org</a>"
 #. type: Content of: <div><div><ul><li><a>
 #: slideshows/edubuntu/slides/documentation.html:8
 msgid ""
-"Let us know about your Edubuntu experience at <a "
-"href=\"http://edubuntu.com/community\">"
+"Let us know about your Edubuntu experience at <a href=\"http://edubuntu.com/"
+"community\">"
 msgstr ""
-"Beritahu kami pengalaman anda menggunakan Edubuntu anda di <a "
-"href=\"http://edubuntu.com/community\">"
+"Beritahu kami pengalaman anda menggunakan Edubuntu anda di <a href=\"http://"
+"edubuntu.com/community\">"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/documentation.html:8
@@ -282,8 +282,7 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:7
 msgid "Menus are created and applied using an easy to use menu editor."
-msgstr ""
-"Menu dicipta dan dilaksanakan menggunakan penyunting menu yang mudah."
+msgstr "Menu dicipta dan dilaksanakan menggunakan penyunting menu yang mudah."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/edubuntu-menu-editor.html:8
@@ -333,14 +332,12 @@ msgstr "Kawal Kelas anda"
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:6
-msgid ""
-"<em>Epoptes</em> allows a lecturer to take control of student desktops."
+msgid "<em>Epoptes</em> allows a lecturer to take control of student desktops."
 msgstr "<em>Epoptes</em> membenarkan pensyarah mengawal desktop pelajar."
 
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:7
-msgid ""
-"Broadcast a desktop session to all users to demonstrate a new concept."
+msgid "Broadcast a desktop session to all users to demonstrate a new concept."
 msgstr ""
 "Siarkan sesi desktop ke semua pengguna untuk demontrasikan konsep baru."
 
@@ -352,8 +349,7 @@ msgstr "Pantau sesi pengguna untuk kekalkan tab pada pengguna nakal."
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/epoptes.html:9
 msgid "Epoptes dynamically detects clients and integrates well with LTSP."
-msgstr ""
-"Epoptes secara dinamik mengesan klien dan bersepadu baik dengan LTSP."
+msgstr "Epoptes secara dinamik mengesan klien dan bersepadu baik dengan LTSP."
 
 #. type: Content of: <div><h1>
 #: slideshows/edubuntu/slides/fonts.html:1
@@ -697,8 +693,8 @@ msgstr ""
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/tux4kids.html:8
 msgid ""
-"Learn basic computer skills and unleash your creativity with "
-"<em>TuxPaint</em>."
+"Learn basic computer skills and unleash your creativity with <em>TuxPaint</"
+"em>."
 msgstr ""
 "Pelajari asas kemahiran komputer dan lepaskan kreativiti anda dengan "
 "<em>TuxPaint</em>."
@@ -751,8 +747,7 @@ msgstr "Ringkaskan dan urus maklumat yang banyak."
 #. type: Content of: <div><div><ul><li>
 #: slideshows/edubuntu/slides/vym.html:9
 msgid "Organize your goals, future plans, events and more."
-msgstr ""
-"Urus sasaran anda, rancangan masa hadapan, peristiwa dan banyak lagi."
+msgstr "Urus sasaran anda, rancangan masa hadapan, peristiwa dan banyak lagi."
 
 #. type: Content of: <h1>
 #: slideshows/edubuntu/slides/welcome.html:1
@@ -762,7 +757,7 @@ msgstr "Selamat datang"
 #. type: Content of: <div><div><ul><p>
 #: slideshows/edubuntu/slides/welcome.html:7
 msgid ""
-"Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
+"Thank you for installing Edubuntu 17.10.  The Edubuntu project is a "
 "community project that aims to provide a whole-school technological platform "
 "suitable for delivering education. We are coders, educators, parents and "
 "technologists who aim to make technology easier for all."
@@ -781,14 +776,3 @@ msgstr ""
 #: slideshows/edubuntu/slides/welcome.html:15
 msgid "<b>Enjoy using Edubuntu and welcome to the Edubuntu family!</b>"
 msgstr "<b>Nikmatilah Edubuntu dan selamat datang ke keluarga Edubuntu!</b>"
-
-#~ msgid ""
-#~ "Thank you for installing Edubuntu 17.04.  The Edubuntu project is a "
-#~ "community project that aims to provide a whole-school technological platform "
-#~ "suitable for delivering education. We are coders, educators, parents and "
-#~ "technologists who aim to make technology easier for all."
-#~ msgstr ""
-#~ "Terima kasih keranan memasang Edubuntu 17.04. Projek Edubuntu merupakan "
-#~ "projek komuniti yang bertujuan menyediakan satu platform berteknologi untuk "
-#~ "pendidikan. Kami merupakan penulis kod, pendidik, ibu bapa dan ahli "
-#~ "teknologi yang mahukan teknologi lebih mudah digunakan untuk semua orang."

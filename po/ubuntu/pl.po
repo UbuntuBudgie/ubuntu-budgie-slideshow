@@ -6,18 +6,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2016-03-23 10:19+0000\n"
-"Last-Translator: Krzysztof Tataradziński <Unknown>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 15:37+0000\n"
+"PO-Revision-Date: 2019-03-14 17:01+0000\n"
+"Last-Translator: GTriderXC <gtriderxc@yahoo.com>\n"
 "Language-Team: Polish <dominikowski@gmail.com>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:53+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:37+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 "X-Poedit-Country: Poland\n"
-"Language: pl\n"
 "X-Poedit-Language: Polish\n"
 
 #. type: Content of: <div><h1>
@@ -98,11 +98,6 @@ msgstr "Obsługiwane oprogramowanie"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/ubuntu/slides/browse.html:23
-msgid "Flash"
-msgstr "Flash"
-
-#. type: Content of: <div><div><div><ul><li><p>
-#: slideshows/ubuntu/slides/browse.html:27
 msgid "Chromium"
 msgstr "Przeglądarka internetowa Chromium"
 
@@ -114,23 +109,22 @@ msgstr "Pomoc i wsparcie"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:8
 msgid ""
-"The <span class=\"app\" data-app=\"docs\">Official documentation</span> "
+"The <span class=\"app\" data-app=\"docs\">official documentation</span> "
 "covers many of the most common areas about Ubuntu. It's available both <a "
-"href=\"https://help.ubuntu.com\">online</a> and via the Ubuntu Help item in "
-"the System menu."
+"href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
+"Dock."
 msgstr ""
-"The <span class=\"app\" data-app=\"docs\">Oficjalna dokumentacja</span> "
-"obejmuje większość najpowszechniejszych obszarów Ubuntu. Jest dostępna "
-"zarówno <a href=\"https://help.ubuntu.com\">online</a> jak i przez Pomoc "
-"Ubuntu w menu Systemu."
+"<span class=\"app\" data-app=\"docs\">Oficjalna dokumentacja</span> pokrywa "
+"najpopularniejsze dziedziny Ubuntu. Dostępna jest <a href=\"https://help."
+"ubuntu.com\">online</a> oraz jako ikona pomocy w panelu uruchamiania."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:12
 msgid ""
 "At <a href=\"http://askubuntu.com\">Ask Ubuntu</a> you can ask questions and "
 "search an impressive collection of already answered questions. Support in "
-"your own language may be provided by your <a "
-"href=\"http://loco.ubuntu.com/teams/\">Local Community Team</a>."
+"your own language may be provided by your <a href=\"http://loco.ubuntu.com/"
+"teams/\">Local Community Team</a>."
 msgstr ""
 "Na <a href=\"http://askubuntu.com\">Ask Ubuntu</a> możesz zadawać pytania i "
 "szukać odpowiedzi na już zadane pytania. Wsparcie w Twoim języku może być "
@@ -140,15 +134,13 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/gethelp.html:16
 msgid ""
-"For pointers to other useful resources, please visit <a "
-"href=\"http://community.ubuntu.com/help-"
-"information/\">community.ubuntu.com/help-information</a> or <a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"For pointers to other useful resources, please visit <a href=\"https://www."
+"ubuntu.com/support/community-support\">Community support</a> or <a href="
+"\"http://www.ubuntu.com/support\">Commercial support</a>."
 msgstr ""
-"Aby uzyskać inne przydatne zasoby wiedzy, prosimy odwiedzić "
-"<ahref=\"http://community.ubuntu.com/helpinformation/\">community.ubuntu.com/"
-"help-information</a> lub<a "
-"href=\"http://www.ubuntu.com/support\">ubuntu.com/support</a>."
+"Aby znaleźć więcej przydatnych zasobów, odwiedź stronę <a href=\"https://www."
+"ubuntu.com/support/community-support\">wsparcia społeczności</a> lub <a href="
+"\"http://www.ubuntu.com/support\">wsparcia komercyjnego</a>."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/music.html:2
@@ -173,6 +165,21 @@ msgstr ""
 #: slideshows/ubuntu/slides/music.html:15
 msgid "Rhythmbox Music Player"
 msgstr "Odtwarzacz muzyki Rhythmbox"
+
+#. type: Content of: <div><div><div><h2>
+#: slideshows/ubuntu/slides/music.html:18
+msgid "Available software"
+msgstr "Proponowane oprogramowanie"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:22
+msgid "Spotify"
+msgstr "Spotify"
+
+#. type: Content of: <div><div><div><ul><li><p>
+#: slideshows/ubuntu/slides/music.html:26
+msgid "VLC"
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/office.html:1
@@ -220,9 +227,8 @@ msgid ""
 "from the Ubuntu Software Center."
 msgstr ""
 "Shotwell jest podręcznym menedżerem kolekcji zdjęć, przygotowanym do obsługi "
-"różnego rodzaju sprzętu. Wystarczy podłączyć aparat lub telefon, aby "
-"w&nbsp;łatwy sposób skopiować obrazy w&nbsp;bezpieczne miejsce lub "
-"opublikować.\r\n"
+"różnego rodzaju sprzętu. Wystarczy podłączyć aparat lub telefon, aby w&nbsp;"
+"łatwy sposób skopiować obrazy w&nbsp;bezpieczne miejsce lub opublikować.\r\n"
 "Centrum oprogramowania Ubuntu zawiera również mnóstwo innych doskonałych "
 "programów graficznych, udostępniających wiele funkcjonalności."
 
@@ -249,16 +255,17 @@ msgstr "Jeszcze więcej programów"
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu/slides/usc.html:8
 msgid ""
-"Say goodbye to searching the web for new software. With access to the Ubuntu "
-"Software Store, you can find and install new apps with ease. Just type in "
-"what you’re looking for, or explore categories such as Science, Education "
-"and Games, alongside helpful reviews from other users."
+"Say goodbye to searching the web for new software. With access to the Snap "
+"Store and the Ubuntu software archive, you can find and install new apps "
+"with ease. Just type in what you’re looking for, or explore categories such "
+"as Graphics & Photography, Games and Productivity, alongside helpful reviews "
+"from other users."
 msgstr ""
-"Pożegnaj się z mozolnym wyszukiwaniem nowego oprogramowania w internecie. "
-"Dzięki dostępowi do Sklepu Oprogramowania Ubuntu, możesz w prosty sposób "
-"znaleźć i zainstalować nowe programy. Zwyczajnie wpisz czego szukasz albo "
-"przeszukaj zbiór według kategorii, m. in. Nauka, Edukacja czy Gry, "
-"wspomagając się opiniami od innych użytkowników."
+"Pożegnaj się z szukaniem oprogramowania w sieci. Dzięki dostępowi do Sklepu "
+"Snap i archiwum oprogramowania Ubuntu możesz z łatwością znaleźć i "
+"zainstalować nowe programy. Po prostu wpisz, czego szukasz lub przeglądaj "
+"kategorie takie jak Grafika i fotografia, Gry, Produktywność, kierując się "
+"opiniami innych użytkowników."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu/slides/welcome.html:1

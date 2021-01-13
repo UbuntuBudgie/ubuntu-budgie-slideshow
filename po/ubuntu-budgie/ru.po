@@ -6,16 +6,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2017-01-19 12:23-0500\n"
-"PO-Revision-Date: 2017-03-03 12:59+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-13 17:22+0100\n"
+"PO-Revision-Date: 2017-08-25 09:14+0000\n"
 "Last-Translator: Aleksey Kabanov <Unknown>\n"
 "Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2017-03-24 19:54+0000\n"
-"X-Generator: Launchpad (build 18334)\n"
+"X-Launchpad-Export-Date: 2020-10-20 12:36+0000\n"
+"X-Generator: Launchpad (build 82ef3cb779698368c64f0c310863c3535f60eea0)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:2
@@ -37,8 +38,8 @@ msgid ""
 "Being designed with the modern user in mind, <strong>Budgie</strong> focuses "
 "on simplicity and elegance"
 msgstr ""
-"Проектируемый в расчёте на современного пользователя, "
-"<strong>Budgie</strong> делает акцент на простоте и элегантности"
+"Проектируемый в расчёте на современного пользователя, <strong>Budgie</"
+"strong> делает акцент на простоте и элегантности"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/01_welcome.html:10
@@ -55,31 +56,29 @@ msgstr ""
 msgid "Simple and easy to use"
 msgstr "Простота и удобство в работе"
 
-#. type: Content of: <div><div>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:7
-msgid ""
-"<strong>Budgie</strong> is built exclusively for desktop users. No mobile or "
-"tablet here!"
-msgstr ""
-"<strong>Budgie</strong> создаётся исключительно для пользователей настольных "
-"компьютеров. Никаких смартфонов или планшетов!"
-
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:9
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:7
 msgid ""
 "<strong>Budgie Menu</strong> provides quick access to your apps, offering "
 "both category and compact views"
 msgstr ""
 
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:10
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:8
 msgid ""
-"<strong>Raven</strong> side panel lets you access applets,notifications and "
-"customization center all in one place"
+"<strong>Raven</strong> side panel lets you access notifications, play music "
+"and sound control all in one place"
 msgstr ""
 
 #. type: Content of: <div><div><li>
-#: slideshows/ubuntu-budgie/slides/02_desktop.html:11
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:9
+msgid ""
+"<strong>Budgie Desktop Settings</strong> lets you further customize your "
+"desktop; panels, fonts, themes, icons and autostart apps"
+msgstr ""
+
+#. type: Content of: <div><div><li>
+#: slideshows/ubuntu-budgie/slides/02_desktop.html:10
 msgid ""
 "<strong>Budgie</strong> gets out of your way and provides a clutter free "
 "desktop experience"
@@ -93,15 +92,11 @@ msgstr ""
 #. type: Content of: <div><div><div><p>
 #: slideshows/ubuntu-budgie/slides/03_browse.html:8
 msgid ""
-"With <strong>Chromium</strong> already installed, Ubuntu Budgie has "
+"With <strong>Firefox</strong> already installed, Ubuntu Budgie has "
 "everything you need to browse the web. Easy browsing, high performance, "
 "advanced security, powerful personalization and the cutting edge, all that "
-"is between your hands."
+"is in your hands."
 msgstr ""
-"Ubuntu Budgie с предустановленным <strong>Chromium</strong> содержит всё, "
-"что нужно для просмотра веб-сайтов. Простота навигации, высокая "
-"производительность, улучшенная безопасность, мощные возможности "
-"персонализации и передовые технологии — всё это в ваших руках."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/04_office.html:2
@@ -149,15 +144,15 @@ msgstr "Наслаждайтесь фотоснимками"
 #: slideshows/ubuntu-budgie/slides/06_photos.html:8
 msgid ""
 "Tired of finding the right application to organize your photos? With "
-"<strong>GNOME Photos</strong>, you can quickly and easily import, organize, "
-"edit and view your pictures. And you can share your favorite snaps on all "
-"popular photo sites and social networks."
+"<strong>gThumb</strong>, you can quickly and easily import, organize, edit "
+"and view your pictures. And you can share your favorite snaps on all popular "
+"photo sites and social networks."
 msgstr ""
-"Устали искать подходящее приложение для организации своей фотоколлекции? С "
-"помощью <strong>GNOME Photos</strong> вы сможете можно быстро и легко "
-"импортировать, упорядочить, отретушировать и просмотреть свои изображения. А "
-"самые лучшие снимки можно опубликовать на популярных фотосайтах и в "
-"социальных сетях."
+"Устали искать подходящее приложение для организации своих фотоснимков? С "
+"помощью <strong>gThumb</strong> можно быстро и легко импортировать, "
+"упорядочивать, редактировать и просматривать изображения. Кроме того, можно "
+"публиковать избранные снимки на всех популярных фотосайтах и в социальных "
+"сетях."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntu-budgie/slides/07_software.html:2
@@ -191,9 +186,8 @@ msgstr "Благодарим за выбор и установку <strong>Ubunt
 #. type: Content of: <div><div><div><li>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:9
 msgid ""
-"Get help and support on our Google+ community (Google \"google+ Ubuntu "
-"Budgie\") or on <strong>Launchpad</strong>: <a "
-"href=\"https://launchpad.net/Ubuntu Budgie\">launchpad.net/ubuntubudgie</a>"
+"Get help and support with our Discourse community: <a href=\"https://"
+"discourse.ubuntubudgie.org\">discourse.ubuntubudgie.org</a>"
 msgstr ""
 
 #. type: Content of: <div><div><div><li>
@@ -203,8 +197,8 @@ msgid ""
 "our homepage: <a href=\"https://ubuntubudgie.org\">ubuntubudgie.org</a>"
 msgstr ""
 "Для получения дополнительной информации и ссылок на другие полезные ресурсы "
-"посетите нашу домашнюю страницу: <a "
-"href=\"https://ubuntubudgie.org\">ubuntubudgie.org</a>"
+"посетите нашу домашнюю страницу: <a href=\"https://ubuntubudgie.org"
+"\">ubuntubudgie.org</a>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/ubuntu-budgie/slides/08_gethelp.html:11
